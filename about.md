@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm originally from Baltimore, Maryland, and now live in White Plains, New York with my wife and daughter.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Professionally, I’m a software designer and developer currently working at Park Assist.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Some of my other interests are feminism, driving, hiking, cycling, travel, the future, Judaism, Israel, science fiction, video games, gadgets, and science.

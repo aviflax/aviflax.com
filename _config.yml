@@ -1,5 +1,13 @@
 url: http://aviflax.com
 name: aviflax.com
+title: aviflax.com
+author: Avi Flax
+email: avi@aviflax.com
+twitter_username: giant_niggler
+github_username: aviflax
 description: ""
 theme: minima
-paginate: 100
+paginate: 50
+paginate_path: "/page/:num/"
+feed:
+  path: feed # This is the feed URL I was using with WordPress. I want it to keep working.

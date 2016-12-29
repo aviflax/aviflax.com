@@ -1,0 +1,37 @@
+---
+id: 397
+title: 'Catch Up: Nokia N800, Apple iPhone, Sigg, Zelda'
+date: 2007-01-09T22:28:02+00:00
+author: Avi
+layout: post
+guid: http://aviflax.com/post/catch-up-nokia-n800-apple-iphone-sigg-zelda/
+permalink: /post/catch-up-nokia-n800-apple-iphone-sigg-zelda/
+sandpaper:
+  - "1"
+categories:
+  - none
+---
+  * **Last week, news of the new news leaks of Nokia N800</a>,** the successor to my Nokia 770 internet tablet, was leaked. Surprisingly, it&#8217;s available for purchase immediately. Nice job, Nokia. (I start thinking about eBaying my 770.)
+  * **Today, Steve Jobs unveiled the [Apple iPhone](http://www.apple.com/iphone/).** The less-than-a-week-old Nokia N800 is left in the dust. (My 770 will be on eBay shortly.) 
+      * **The iPhone has instantly revolutionized the mobile phone industry, the mobile music device industry, and the mobile computer/pda/tablet industry.** And, it&#8217;ll take a little while longer to realize it, but it&#8217;s also finally started the redefinition of the term &#8220;computer&#8221;. It&#8217;ll be interesting to see where the language goes. My vote is that the term &#8220;computer&#8221; falls into disuse, and we end up having &#8220;laptops&#8221;, &#8220;desktops&#8221;, and &#8220;mobiles&#8221;.
+      * **If you&#8217;re at all interested in business,** marketing, advertising, public speaking, sales, showmanship, charisma, or mass hysteria, it&#8217;s worth watching [Steve Jobs introduce the iPhone](http://events.apple.com.edgesuite.net/j47d52oo/event/).
+      * **The iPhone is shockingly good.** Even if, for whatever reason, they never even sold one, it would _still_ be shockingly good &#8211; even if it were just a concept, the concept is so far advanced beyond the current state of the art of &#8220;smart&#8221; phones, &#8220;music&#8221; phones, and just plain old regular phones, that I&#8217;m embarrassed for every single employee of RIM, Palm, Motorola, Nokia, Samsung, LG, Sony Ericsson, and anyone else that makes phones. Check this out:   
+        <img id="image398" src="http://aviflax.com/wp-content/uploads/2007/01/Yahoo_Finance_Chart_post_iPhone.png" alt="Yahoo_Finance_Chart_post_iPhone.png" />  
+        (via [the Daring Fireball Linked List](http://daringfireball.net/linked/))  
+        **&#8216;Nuff said.**
+      * **Apple changed their official name** from &#8220;Apple Computer, Inc.&#8221; to &#8220;Apple, Inc.&#8221; Eh. I understand why they did it, marketing, perception stuff. But it&#8217;s not a particularly inspired or interesting change. I mean, everyone already calls them Apple anyway. Why does this matter? Because the iPhone isn&#8217;t a computer? Er, actually, it is. Because &#8220;Joe Public&#8221; thinks of a computer as a beige box with a big screen and a Windows license? Because Apple doesn&#8217;t want to be constrained by being lumped as a &#8220;computer manufacturer&#8221;. Whatever. Who cares? Next!
+      * **I even feel a little bad for Nokia.** (But only a little.) They _just_ released the N800, and it&#8217;s now instantly obsolete. They were caught with their pants down. Hey, not everyone can be the winner! Nokia gets a gold star for good intentions; the N800 was definitely a step in the right direction &#8211; but ultimately too little, too late. 
+          * Or, just maybe, too little, too soon. I&#8217;m still on board with Nokia&#8217;s vision of a system of very small devices that work seamlessly together as a cohesive whole. That&#8217;s a large chunk of the vision behind the 770 and the N800. But it seems that the technology just isn&#8217;t ready &#8211; and neither is the market. Ultimately, that vision wasn&#8217;t realistic for 2006 or 2007. It&#8217;s the iPhone that&#8217;s going to fundamentally change the mobile devices industry.
+  * **Jobs also revealed the [&#63743;TV](http://www.apple.com/appletv/)**, a set-top box which makes it easy to watch movies and TV shows from the iTunes Store and your computers. I pre-ordered mine already. 
+      * In addition to the current wireless standard, 802.11g, the &#63743;TV also supports other flavors of WiFi: b, for backwards compatibility; a, for sideways compatibility; and n, for forwards compatibility. This new flavor, n, is supposed to be faster and more reliable with a longer range. The improved speed is the key point: if you want to send HD video from a computer to the TV wirelessly, you need a really fast network. g&#8217;s real-world max of 30-40 mbps just won&#8217;t cut it.
+      * Because few people currently have 802.11n networks, and because they were due for an update, Apple&#8217;s [Airport Extreme](http://www.apple.com/airportextreme/) wireless networking base station/router has been updated to support the new standard. And, surprise surprise, it turns out that Apple&#8217;s been quietly shipping n-capable computers for a while now: all Core 2 Duo and Xeon Macs are n-capable, they&#8217;ll just need a minor software update to enable the capability. Sneaky sneaky!
+      * Use a Core (1) Duo Mac, like my MacBook Pro? Want 802.11n? [Too bad!](http://www.apple.com/wireless/80211/) Us early adopters, we know the risks. I say if we can&#8217;t find a 802.11n ExpressCard, then we should turn in our geek creds anyway.
+  * Last week **I bought a great new water bottle**, the [Sigg Sport Active Touch](http://www.reusablebags.com/store/sigg-075l-sport-active-touch-reusable-bottles-p-383.html). Yeah, $20 is a bit pricey for a reusable bottle. But what can I say &#8211; I know what I want, and I want it now, I want you, &#8217;cause I&#8217;m Mr. Vain. Uh, what? No, I mean &#8211; I really needed to start drinking more water, and of course I can&#8217;t just buy a $0.99 acrylic cup can I? Reuse an Evian bottle? No way! I _need_ the _perfect_ bottle, one which I can use at work, at home, on the bike, in between, keep in my backpack. One which won&#8217;t change the taste of the water. One which is light yet strong. The Sigg filled the bill, in every way. One note: it&#8217;s not insulated, so if you like your water to stay really cold, or if you prefer your hands to _not_ be really cold, you may be better off with an insulated bottle. (Although an [insulating sleeve](http://www.reusablebags.com/store/reusable-bottles-insulated-sleeves-c-19_21.html) might do the job.) Hm, too bad I lost it already. Well, it was good while it lasted. Next!
+  * **I spent 65 minutes at the New York DMV** today. Why? Stay tuned!
+  * **If you care at all about having a life**, think long and hard before picking up that Wii remote and starting a game of [The Legend of Zelda: Twilight Princess](http://zelda.com/universe/game/twilightprincess/). Seriously: Elina gave me a copy for Hanukkah, and it&#8217;s basically sucked up 90% of my at-home awake time. I&#8217;m up to 26 hours of game time. Seriously. Even now, as I type this, my fingers are itching for the sweet, sweet release of that white plastic, those bleary-eyed hours of quest after puzzle after challenge after adventure. Just be careful, is all I&#8217;m saying. Think before you rip open that shrinkwrap. Think.
+
+Uh, I gotta go&#8230; just for a few minutes, really. Well&#8230; probably. Hopefully. Oh, leave me alone already, can&#8217;t you see I&#8217;m in the middle of something here? What? Yeah, so what if it is just a game? **I said I&#8217;m busy!**
+
+Oh&#8230; crap. Sorry.
+
+See? What did I tell you?

@@ -7,6 +7,9 @@ twitter_username: flaximus_prime
 github_username: aviflax
 description: ""
 theme: minima
+gems:
+  - jekyll-feed
+  - jekyll-paginate
 paginate: 50
 paginate_path: "/page/:num/"
 feed:

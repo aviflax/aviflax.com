@@ -5,7 +5,7 @@ date: 2014-07-21T17:45:06+00:00
 author: Avi
 layout: post
 guid: http://twitter-491338099109408768-post
-permalink: '/post/we-have-a-lot-of-stuff-%f0%9f%98/'
+permalink: '/post/we-have-a-lot-of-stuff/'
 categories:
   - none
 tags:

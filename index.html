@@ -2,7 +2,24 @@
 layout: default
 ---
 
-<div class="home">
+<style>
+  .microblog_post {
+    margin: 2em 0;
+  }
+
+  .microblog_post p {
+    margin: 0;
+  }
+
+  .microblog_time {
+    margin: 0;
+    text-align: right;
+    font-size: small;
+  }
+</style>
+
+<section>
+  <script type="text/javascript" src="http://micro.blog/sidebar.js?username=avi&count=25"></script>
 
   <ul class="post-list">
     {% for post in paginator.posts %}
@@ -34,5 +51,4 @@ layout: default
       <a href="{{ paginator.next_page_path }}" class="next">Next</a>
     {% endif %}
   </div>
-
-</div>
+</section>

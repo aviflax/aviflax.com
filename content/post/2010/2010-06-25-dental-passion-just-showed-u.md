@@ -1,0 +1,17 @@
+---
+aktt_notify_twitter:
+- "yes"
+aktt_twitter_id:
+- "17049307275"
+author: Avi
+categories:
+- none
+date: "2010-06-25T18:53:49Z"
+guid: http://aviflax.com/post/dental-passion-just-showed-u/
+id: 1081
+tags:
+- tweet
+title: '&#8220;Dental Passion&#8221; just showed u…'
+url: /post/dental-passion-just-showed-u/
+---
+&#8220;Dental Passion&#8221; just showed up on our bank account. I figured it was a scam, or porn, but no, it&#8217;s actually Elina&#8217;s dentist. Holy cow.

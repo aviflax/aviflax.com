@@ -1,0 +1,18 @@
+---
+author: Avi
+categories:
+- none
+date: "2013-10-29T10:32:43Z"
+guid: http://aviflax.com/?p=8341
+id: 8341
+tags:
+- ADN
+- Appdotnet
+- IFTTT
+title: I’ve been using iPads for 3½ years, often when my laptop is at the ready in
+  my bag. Why? I think it’s partly because the iPad helps me focus. Everything is
+  full screen by default — which is huge. On the Mac, the default mode is full of
+  fussy distractions.
+url: /post/ive-been-using-ipads-for-3%c2%bd-years-often-when-my-laptop-is-at-the-ready-in-my-bag-why-i-think-its-partly-because-the-ipad-helps-me-focus-everything-is-full-screen-by-default-2/
+---
+(Originally published [on App.net](http://alpha.app.net/aviflax/post/13809038).)

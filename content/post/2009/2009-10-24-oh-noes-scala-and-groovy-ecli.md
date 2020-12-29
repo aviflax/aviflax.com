@@ -1,0 +1,17 @@
+---
+aktt_notify_twitter:
+- "yes"
+aktt_twitter_id:
+- "5134057752"
+author: Avi
+categories:
+- none
+date: "2009-10-24T19:25:50Z"
+guid: http://aviflax.com/post/oh-noes-scala-and-groovy-ecli/
+id: 673
+tags:
+- tweet
+title: Oh noes! Scala and Groovy Ecli…
+url: /post/oh-noes-scala-and-groovy-ecli/
+---
+Oh noes! Scala and Groovy Eclipse plugins (temporarily) conflict with each other. Makes me face the &#8220;do I really need Eclipse&#8221; question.

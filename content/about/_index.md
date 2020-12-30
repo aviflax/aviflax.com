@@ -1,9 +1,6 @@
 ---
-layout: page
 title: About
-permalink: /about/
 ---
-
 ## Hi, I’m Avi
 
 ![Avi and daughter at the beach with ice cream, summer 2016.jpg](/assets/images/pages/Avi and daughter at the beach with ice cream, summer 2016.jpg)

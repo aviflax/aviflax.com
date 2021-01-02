@@ -1,7 +1,3 @@
-[submodule "resume"]
-	path = static/resume
-	url = https://github.com/aviflax/resume.git
-
 [submodule "smol"]
   path = themes/smol
 	url = https://github.com/colorchestra/smol

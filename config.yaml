@@ -3,4 +3,18 @@ disablePathToLower: true
 languageCode: en-us
 title: aviflax.com
 theme: smol
-sectionPagesMenu: main
+
+menu:
+  main:
+  - identifier: posts
+    name: Posts
+    url: /post/
+    weight: 10
+  - identifier: about
+    name: About
+    url: /about/
+    weight: 20
+  - identifier: resume
+    name: Résumé
+    url: /resume/
+    weight: 30

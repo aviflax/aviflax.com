@@ -13,7 +13,7 @@ id: 414
 title: 'Download the New Smashing Pumpkins Song: Tarantula'
 url: /post/download-the-new-smashing-pumpkins-song-tarantula/
 ---
-![zeitcover.png](http://aviflax.com/wp-content/uploads/2007/05/zeitcover.png)
+![zeitcover.png](/wp-content/uploads/2007/05/zeitcover.png)
 
 [Download Tarantula by The Smashing Pumpkins (MP3)](http://aviflax.com/media/Smashing_Pumpkins_Zeitgeist_Tarantula.mp3)
 

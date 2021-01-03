@@ -10,4 +10,4 @@ url: /post/mazal-tov-jessica/
 ---
 On your graduation from high school!! We&#8217;re super-proud of you!!
 
-![jessicas-graduation-photo-scanned.jpg](http://aviflax.com/wp-content/uploads/2007/06/jessicas-graduation-photo-scanned.jpg)
+![jessicas-graduation-photo-scanned.jpg](/wp-content/uploads/2007/06/jessicas-graduation-photo-scanned.jpg)

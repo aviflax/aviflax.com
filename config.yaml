@@ -2,6 +2,10 @@ baseURL: http://aviflax.com
 disablePathToLower: true
 languageCode: en-us
 title: aviflax.com
+
+permalinks:
+  post:  "/:year/:month/:title/"
+
 theme: smol
 
 menu:

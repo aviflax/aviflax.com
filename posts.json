@@ -1,0 +1,1073 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Micro.blog - Avi Flax",
+  "home_page_url": "https://micro.blog/",
+  "feed_url": "https://micro.blog/posts/avi",
+  "_microblog": {
+    "about": "https://micro.blog/about/api",
+    "id": "2241",
+    "username": "avi",
+    "bio": "Feminist, futurist, father. Autonomous biological machine. Modern Hebrew. Software developer.",
+    "is_following": false,
+    "is_you": false,
+    "following_count": 16,
+    "discover_count": 0
+  },
+  "author": {
+    "name": "Avi Flax",
+    "url": "https://avi.micro.blog/",
+    "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png"
+  },
+  "items": [
+    {
+      "id": "10586021",
+      "content_html": "<p>Today was my first day as a software developer at <a href=\"https://modern.energy/\">Modern Energy</a>! I’m thrilled to be joining the fight to mitigate climate change.</p>\n\n<p>Special thanks to <a href=\"https://twitter.com/levanderhart\">Luke VanderHart</a> for introducing me, and to <a href=\"http://worrydream.com/\">Bret Victor</a> for  his inspiring essay <a href=\"http://worrydream.com/ClimateChange/\">What can a Technologist do About Climate Change?</a></p>\n",
+      "url": "https://blog.aviflax.com/2020/11/16/today-was-my.html",
+      "date_published": "2020-11-17T03:24:50+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2020-11-17  3:24 am",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": false
+      }
+    },
+    {
+      "id": "10505495",
+      "content_html": "Voted! <a href=\"https://blog.aviflax.com/2020/11/01/voted.html\">blog.aviflax.com</a>",
+      "url": "https://blog.aviflax.com/2020/11/01/voted.html",
+      "date_published": "2020-11-01T21:25:00+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2020-11-01  9:25 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": false
+      }
+    },
+    {
+      "id": "10423807",
+      "content_html": "<p><a href=\"https://micro.blog/danielpunkass\">@danielpunkass</a> congrats!</p>\n",
+      "url": "https://micro.blog/avi/10423807",
+      "date_published": "2020-10-16T16:12:49+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2020-10-16  4:12 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": true
+      }
+    },
+    {
+      "id": "10401631",
+      "content_html": "<p>Happy Indigenous Peoples’ Day!</p>\n\n<p>If you’re a US resident, take a few minutes to learn <a href=\"https://www.vox.com/first-person/2019/9/23/20872713/native-american-indian-treaties\">what it might look like if the US honored its treaties with indigenous peoples</a>.</p>\n\n<p><img src=\"https://micro.blog/photos/1000x/https://blog.aviflax.com/uploads/2020/18c6e71167.jpg\" width=\"600\" height=\"423\" alt=\"Screenshot of the above-the-fold content of the linked Vox article, including a photo, headline, subtitle, and byline. Photo caption: An activist fights the wind while walking along Flag Road in Oceti Sakowin Camp as blizzard conditions grip the area around the Standing Rock Sioux Reservation outside Cannon Ball, North Dakota on December 6, 2016. Scott Olson/Getty Images.\"></p>\n",
+      "url": "https://blog.aviflax.com/2020/10/12/happy-indigenous-peoples.html",
+      "date_published": "2020-10-12T14:46:54+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2020-10-12  2:46 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": false
+      }
+    },
+    {
+      "id": "10325445",
+      "content_html": "<p>גמר חתימה טובה לכולם</p>\n",
+      "url": "https://blog.aviflax.com/2020/09/27/173849.html",
+      "date_published": "2020-09-27T21:38:49+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2020-09-27  9:38 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": false
+      }
+    },
+    {
+      "id": "10175126",
+      "content_html": "<p>Every time I come back to AWS after some time away:</p>\n\n<p><img src=\"https://micro.blog/photos/1000x/https://blog.aviflax.com/uploads/2020/30ce2164f1.jpg\" width=\"600\" height=\"450\" alt=\"Image macro: photo of an irate Jimmy McMillan, founder of New York’s The Rent Is Too Damn High party, overlaid with the text “THE COGNITIVE LOAD IS TOO DAMN HIGH”\"></p>\n",
+      "url": "https://blog.aviflax.com/2020/08/28/every-time-i.html",
+      "date_published": "2020-08-28T14:44:36+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2020-08-28  2:44 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": false
+      }
+    },
+    {
+      "id": "10149743",
+      "content_html": "#DeleteFacebook <a href=\"https://blog.aviflax.com/2020/08/23/deletefacebook-if-you.html\">blog.aviflax.com</a>",
+      "url": "https://blog.aviflax.com/2020/08/23/deletefacebook-if-you.html",
+      "date_published": "2020-08-23T21:17:49+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2020-08-23  9:17 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": false
+      }
+    },
+    {
+      "id": "9978422",
+      "content_html": "<p><img src=\"https://micro.blog/photos/1000x/https://blog.aviflax.com/uploads/2020/7d329cef9a.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+      "url": "https://blog.aviflax.com/2020/07/22/105525.html",
+      "date_published": "2020-07-22T15:55:25+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2020-07-22  3:55 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": false
+      }
+    },
+    {
+      "id": "9873851",
+      "content_html": "TIL: In Docker for Mac, there is a default memory limit of 2GB… <a href=\"https://blog.aviflax.com/2020/07/02/til-in-docker.html\">blog.aviflax.com</a>",
+      "url": "https://blog.aviflax.com/2020/07/02/til-in-docker.html",
+      "date_published": "2020-07-02T21:59:27+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2020-07-02  9:59 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": false
+      }
+    },
+    {
+      "id": "8886984",
+      "content_html": "<p>Be kind to your bots!</p>\n\n<p><img src=\"https://micro.blog/photos/1000x/https://blog.aviflax.com/uploads/2020/079da73be3.jpg\" width=\"600\" height=\"350\" alt=\"\"></p>\n",
+      "url": "https://blog.aviflax.com/2020/03/17/be-kind-to.html",
+      "date_published": "2020-03-18T02:25:59+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2020-03-18  2:25 am",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": true
+      }
+    },
+    {
+      "id": "8595435",
+      "content_html": "<p>Holy💩 <a href=\"https://coda.io/\">Coda</a> is amazing. Truly impressive, compelling, fantastic!</p>\n",
+      "url": "https://blog.aviflax.com/2020/03/01/holy-coda-is.html",
+      "date_published": "2020-03-01T20:03:28+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2020-03-01  8:03 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": false
+      }
+    },
+    {
+      "id": "7396152",
+      "content_html": "<p>Yesterday I learned via <a href=\"https://discuss.atom.io/t/a-way-to-exclude-folders-from-find-in-project/9861/6\">this answer</a> a handy <a href=\"https://atom.io\">Atom</a> trick: one can exclude directories from the <em>Find in Project</em> feature by prefixing them with an exclamation mark, like so: <code>!dir</code></p>\n\n<p>This is handy when a project contains “archived” (frozen) files, or a generated dir like Jekyll’s <code>_site</code>.</p>\n\n<p><img src=\"https://micro.blog/photos/1000x/https://blog.aviflax.com/uploads/2019/7fa25b8c8e.jpg\" width=\"458\" height=\"294\" alt=\"\"></p>\n",
+      "url": "https://blog.aviflax.com/2019/12/24/yesterday-i-learned.html",
+      "date_published": "2019-12-24T15:00:19+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2019-12-24  3:00 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": false
+      }
+    },
+    {
+      "id": "6928627",
+      "content_html": "<p>I just randomly tried to run <a href=\"https://en.wikipedia.org/wiki/Pico_(text_editor)\"><code>pico</code></a> — wow, blast from the past!</p>\n",
+      "url": "https://blog.aviflax.com/2019/12/04/i-just-randomly.html",
+      "date_published": "2019-12-04T21:26:31+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2019-12-04  9:26 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": false
+      }
+    },
+    {
+      "id": "6764785",
+      "content_html": "<p>I spoke at the <a href=\"https://2019.clojure-conj.org/\">Clojure/conj</a> last week, on <em>(Architecture) Diagrams as ✨Data✨</em></p>\n\n<p>I’m very happy with how it came out. Thank you to everyone who helped me prepare and everyone who gave me feedback!</p>\n\n<p>If you’d like, you can check out <a href=\"http://2019.clojure-conj.org/speaker-avi-flax/\">the description</a>, <a href=\"https://github.com/aviflax/presentations/tree/master/diagrams-as-data\">the slides</a>, or <a href=\"https://youtu.be/HmHOYkTVxIg\">the video</a>.</p>\n\n<p><img src=\"https://micro.blog/photos/1000x/https://blog.aviflax.com/uploads/2019/35e868f800.jpg\" width=\"600\" height=\"337\" alt=\"\"></p>\n",
+      "url": "https://blog.aviflax.com/2019/11/25/i-spoke-at.html",
+      "date_published": "2019-11-25T17:34:03+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2019-11-25  5:34 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": false
+      }
+    },
+    {
+      "id": "6584813",
+      "content_html": "<p>🤔 It’d be handy if I could assign a title to a given browser window — i.e. a set of tabs — so I could group sets of tabs by activity or topic.</p>\n\n<p>It looks like there are a few Firefox extensions that do this, but it’s unclear how effective they are on MacOS. I’ll have to try them.</p>\n",
+      "url": "https://blog.aviflax.com/2019/11/15/itd-be-handy.html",
+      "date_published": "2019-11-15T18:22:12+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2019-11-15  6:22 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": false
+      }
+    },
+    {
+      "id": "6086828",
+      "content_html": "<p><a href=\"https://micro.blog/manton\">@manton</a> 💪💪💪</p>\n",
+      "url": "https://micro.blog/avi/6086828",
+      "date_published": "2019-10-18T17:21:10+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2019-10-18  5:21 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": true
+      }
+    },
+    {
+      "id": "6086613",
+      "content_html": "<p>I just proposed a ⚡️ lightning talk for <a href=\"https://www.meetup.com/WriteTheDocsNYC/events/265751514/\">the next Write the Docs NYC meetup</a>: <em>Storytelling with Git</em>.</p>\n\n<p><img src=\"https://micro.blog/photos/1000x/https://blog.aviflax.com/uploads/2019/e62b749c3c.jpg\" width=\"600\" height=\"277\" alt=\"Screenshot of a Web form (a Google Forms… form) showing the field “Talk title” with the value “Storytelling with Git” and “Talk description” with “I’ll show how documentarians and developers can document the ongoing story of their projects with Git, and explain why they should. I prepared this for WtD Portland this past May but I was bumped due to time constraints. I have a slide deck prepared that I’d be happy to share if you’d like to see it. Thanks for organizing!”\"></p>\n",
+      "url": "https://blog.aviflax.com/2019/10/18/i-just-proposed.html",
+      "date_published": "2019-10-18T17:11:22+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2019-10-18  5:11 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": false
+      }
+    },
+    {
+      "id": "6086561",
+      "content_html": "<p><a href=\"https://micro.blog/manton\">@manton</a> does the micro.blog syndication to Twitter include image descriptions?</p>\n",
+      "url": "https://micro.blog/avi/6086561",
+      "date_published": "2019-10-18T16:54:17+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2019-10-18  4:54 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": true
+      }
+    },
+    {
+      "id": "6086555",
+      "content_html": "<p>Writing a talk. What can I say, I’m super original.</p>\n\n<p><img src=\"https://micro.blog/photos/1000x/https://blog.aviflax.com/uploads/2019/5d743095be.jpg\" width=\"600\" height=\"298\" alt=\"Screenshot of part of a text editor containing some text from the draft of a talk I’m working on. The text has an image placeholder with the label “obligatory morpheus image macro” and then a phrase I guess I’d say along with this slide: “What if I told you…”\"></p>\n",
+      "url": "https://blog.aviflax.com/2019/10/18/writing-a-talk.html",
+      "date_published": "2019-10-18T16:53:43+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2019-10-18  4:53 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": false
+      }
+    },
+    {
+      "id": "6055311",
+      "content_html": "Aphantasia: yes, it’s a thing <a href=\"https://blog.aviflax.com/2019/10/16/aphantasia-yes-its.html\">blog.aviflax.com</a>",
+      "url": "https://blog.aviflax.com/2019/10/16/aphantasia-yes-its.html",
+      "date_published": "2019-10-16T20:58:55+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2019-10-16  8:58 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": false
+      }
+    },
+    {
+      "id": "5955486",
+      "content_html": "New release of the FC4 Framework adds ability to render to SVG <a href=\"https://blog.aviflax.com/2019/10/10/new-release-of.html\">blog.aviflax.com</a>",
+      "url": "https://blog.aviflax.com/2019/10/10/new-release-of.html",
+      "date_published": "2019-10-10T18:33:51+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2019-10-10  6:33 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": false
+      }
+    },
+    {
+      "id": "6036226",
+      "content_html": "<p>Before, during, and after the lower east side pickle festival!</p>\n\n<p><img src=\"https://micro.blog/photos/1000x/https://blog.aviflax.com/uploads/2019/706f105965.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://micro.blog/photos/1000x/https://blog.aviflax.com/uploads/2019/ebde4e2dc8.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://micro.blog/photos/1000x/https://blog.aviflax.com/uploads/2019/6a1608ead5.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+      "url": "https://blog.aviflax.com/2019/10/07/before-during-and.html",
+      "date_published": "2019-10-07T18:14:09+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2019-10-07  6:14 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": false
+      }
+    },
+    {
+      "id": "6036227",
+      "content_html": "<p>That’s quite a station car.</p>\n\n<p><img src=\"https://micro.blog/photos/1000x/https://blog.aviflax.com/uploads/2019/cd49bf5e51.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+      "url": "https://blog.aviflax.com/2019/10/07/thats-quite-a.html",
+      "date_published": "2019-10-07T16:37:52+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2019-10-07  4:37 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": false
+      }
+    },
+    {
+      "id": "5858873",
+      "content_html": "<p>On a lark, I just installed <a href=\"https://lynx.invisible-island.net\">Lynx</a> and used it to view <a href=\"https://fundingcircle.github.io/fc4-framework/\">the homepage of the FC4 Framework</a>. It looked great! I got a real kick out of this; it took me way back. I was also pleased to see that the structure and content of the page worked well when represented in plain text.</p>\n\n<p><img src=\"https://micro.blog/photos/1000x/https://blog.aviflax.com/uploads/2019/1a3fbe9360.jpg\" width=\"600\" height=\"480\" alt=\"Screenshot of the homepage of the FC4 Framework loaded in Lynx in a MacOS (10.14 Mojave) Terminal window.\"></p>\n",
+      "url": "https://blog.aviflax.com/2019/10/04/on-a-lark.html",
+      "date_published": "2019-10-04T20:31:32+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2019-10-04  8:31 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": false
+      }
+    },
+    {
+      "id": "5623060",
+      "content_html": "<p><a href=\"https://micro.blog/danielpunkass\">@danielpunkass</a> omg that looks super yum I’ve gotta get back there haven’t been in years!</p>\n",
+      "url": "https://micro.blog/avi/5623060",
+      "date_published": "2019-09-20T16:04:14+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2019-09-20  4:04 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": true
+      }
+    },
+    {
+      "id": "5492817",
+      "content_html": "I just released a new version of FC4, a FLOSS framework for authoring,\npublishing, and maintaining C4 software architecture diagrams.\n\nThe (abbreviated) highlights:\n\n\nRendering multiple diagrams is faster and more efficient\nThe versioning scheme has changed to work better with Homebrew\n... <a href=\"https://blog.aviflax.com/2019/09/12/i-released-a.html\">blog.aviflax.com</a>",
+      "url": "https://blog.aviflax.com/2019/09/12/i-released-a.html",
+      "date_published": "2019-09-12T14:45:00+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2019-09-12  2:45 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": false
+      }
+    },
+    {
+      "id": "5270950",
+      "content_html": "<p>Anyone else use an iPad with an external keyboard (Bluetooth in my case) and found that Safari is <em>really</em> flaky when it comes to responding to keyboard shortcuts? Maybe there’s some kind of focus thing I’m missing, but I’ve been really annoyed by this apparent bug.</p>\n",
+      "url": "https://blog.aviflax.com/2019/08/29/anyone-else-use.html",
+      "date_published": "2019-08-29T15:10:33+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2019-08-29  3:10 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": false
+      }
+    },
+    {
+      "id": "5255539",
+      "content_html": "<p>I just used <a href=\"https://www.proporti.onl/\">Proporti.onl</a> to estimate the gender distribution of my Twitter followers and those I follow, based on their profile descriptions or first names. It’s not great: 1% non-binary, 36% women, 62% men. I’m gonna work on this.</p>\n\n<p><img src=\"https://micro.blog/photos/1000x/https://blog.aviflax.com/uploads/2019/c0d32744b6.jpg\" width=\"600\" height=\"361\" alt=\"\"></p>\n",
+      "url": "https://blog.aviflax.com/2019/08/28/i-just-used.html",
+      "date_published": "2019-08-28T16:19:25+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2019-08-28  4:19 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": false
+      }
+    },
+    {
+      "id": "5255343",
+      "content_html": "<p>I’ve been playing around with the recently upgraded @GitHub Actions and it was surprisingly easy to port some CircleCI jobs. Some intriguing features!</p>\n\n<p>(The jobs are a little slower, but I suspect that’s largely due to the lack of dependency caching, and <a href=\"https://twitter.com/mscccc/status/1166505708990263296\">they’re working on that</a>.)</p>\n\n<p><img src=\"https://micro.blog/photos/1000x/https://blog.aviflax.com/uploads/2019/3199f70138.jpg\" width=\"600\" height=\"544\" alt=\"Screenshot of this run of GitHub Actions: https://github.com/FundingCircle/fc4-framework/runs/205850664\"></p>\n",
+      "url": "https://blog.aviflax.com/2019/08/28/ive-been-playing.html",
+      "date_published": "2019-08-28T16:08:35+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2019-08-28  4:08 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": false
+      }
+    },
+    {
+      "id": "4672503",
+      "content_html": "<p><a href=\"https://micro.blog/pyrmont\">@pyrmont</a> cool! ping me if I can help with anything at all — I love nerding out on this stuff!</p>\n",
+      "url": "https://micro.blog/avi/4672503",
+      "date_published": "2019-07-23T23:04:44+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2019-07-23 11:04 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": true
+      }
+    },
+    {
+      "id": "4640965",
+      "content_html": "<p><a href=\"https://micro.blog/pyrmont\">@pyrmont</a> fellow Clojurist here! I’m using it to build/maintain the tool that’s half of my docs-as-code software architecture diagramming framework: <a href=\"https://fundingcircle.github.io/fc4-framework/\">fundingcircle.github.io/fc4-frame...</a></p>\n",
+      "url": "https://micro.blog/avi/4640965",
+      "date_published": "2019-07-22T03:35:18+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2019-07-22  3:35 am",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": true
+      }
+    },
+    {
+      "id": "3702489",
+      "content_html": "<p><a href=\"https://micro.blog/aaronpk\">@aaronpk</a> yeah looks like a really good fit! Unfortunately I’m based near NYC and (sadly) I don’t get out to Portland often. Thanks though!</p>\n",
+      "url": "https://micro.blog/avi/3702489",
+      "date_published": "2019-05-23T16:46:41+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2019-05-23  4:46 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": true
+      }
+    },
+    {
+      "id": "3174545",
+      "content_html": "<p><a href=\"https://micro.blog/brentsimmons\">@brentsimmons</a> a clipboard for the mind!</p>\n",
+      "url": "https://micro.blog/avi/3174545",
+      "date_published": "2019-04-16T20:31:06+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2019-04-16  8:31 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": true
+      }
+    },
+    {
+      "id": "1905319",
+      "content_html": "<p><a href=\"https://micro.blog/JohnPhilpin\">@JohnPhilpin</a> 👍👍👍</p>\n",
+      "url": "https://micro.blog/avi/1905319",
+      "date_published": "2019-01-17T13:39:55+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2019-01-17  1:39 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": true
+      }
+    },
+    {
+      "id": "1905206",
+      "content_html": "<p><a href=\"https://micro.blog/JohnPhilpin\">@JohnPhilpin</a> I upgraded from a 2018 iPad to a 2017 iPad Pro (10.5&quot;)</p>\n",
+      "url": "https://micro.blog/avi/1905206",
+      "date_published": "2019-01-17T13:33:04+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2019-01-17  1:33 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": true
+      }
+    },
+    {
+      "id": "926228",
+      "content_html": "<p><a href=\"https://micro.blog/eli\">@eli</a> 🙌💖💪🙏</p>\n",
+      "url": "https://micro.blog/avi/926228",
+      "date_published": "2018-09-29T21:50:16+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2018-09-29  9:50 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": true
+      }
+    },
+    {
+      "id": "926051",
+      "content_html": "<p><a href=\"https://micro.blog/avi\">@avi</a> shorter, possibly more relevant: <a href=\"https://angristan.xyz/how-to-fix-font-rendering-macos-10-14-mojave/\">angristan.xyz/how-to-fi...</a></p>\n",
+      "url": "https://micro.blog/avi/926051",
+      "date_published": "2018-09-29T20:03:25+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2018-09-29  8:03 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": true
+      }
+    },
+    {
+      "id": "926046",
+      "content_html": "<p><a href=\"https://micro.blog/dgold\">@dgold</a> possibly relevant: <a href=\"https://ahmadawais.com/fix-macos-mojave-font-rendering-issue/\">ahmadawais.com/fix-macos...</a></p>\n",
+      "url": "https://micro.blog/avi/926046",
+      "date_published": "2018-09-29T19:59:42+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2018-09-29  7:59 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": true
+      }
+    },
+    {
+      "id": "881298",
+      "content_html": "<p><a href=\"https://micro.blog/toddgrotenhuis\">@toddgrotenhuis</a> thanks!</p>\n",
+      "url": "https://micro.blog/avi/881298",
+      "date_published": "2018-09-13T00:00:26+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2018-09-13 12:00 am",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": true
+      }
+    },
+    {
+      "id": "740074",
+      "content_html": "<p>@mikedotfm compelling! Might be enough to revive my moribund interest in the game.</p>\n",
+      "url": "https://micro.blog/avi/740074",
+      "date_published": "2018-07-24T18:48:59+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2018-07-24  6:48 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": true
+      }
+    },
+    {
+      "id": "719723",
+      "content_html": "<p>@mikedotfm thanks for the tip!</p>\n",
+      "url": "https://micro.blog/avi/719723",
+      "date_published": "2018-07-16T15:20:20+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2018-07-16  3:20 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": true
+      }
+    },
+    {
+      "id": "706335",
+      "content_html": "<p><a href=\"https://micro.blog/aaronpk\">@aaronpk</a> can confirm. But it’s OK — it’s fun!</p>\n",
+      "url": "https://micro.blog/avi/706335",
+      "date_published": "2018-07-11T14:13:49+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2018-07-11  2:13 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": true
+      }
+    },
+    {
+      "id": "678190",
+      "content_html": "<p><a href=\"https://micro.blog/jl_siewert\">@jl\\_siewert</a> that’s interesting; according to apple.com the 8 is only 3.5% (5 grams) heavier than the 6s. I don’t know if I’d notice such a small difference.</p>\n",
+      "url": "https://micro.blog/avi/678190",
+      "date_published": "2018-06-29T20:17:51+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2018-06-29  8:17 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": true
+      }
+    },
+    {
+      "id": "678187",
+      "content_html": "<p><a href=\"https://micro.blog/justinhudgins\">@justinhudgins</a> now that I’m used to it, no</p>\n",
+      "url": "https://micro.blog/avi/678187",
+      "date_published": "2018-06-29T20:14:37+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2018-06-29  8:14 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": true
+      }
+    },
+    {
+      "id": "675839",
+      "content_html": "<p><a href=\"https://micro.blog/jl_siewert\">@jl\\_siewert</a> I hear you; it took me a minute to adjust as it all felt different than I’d come to expect on my iPad. But that didn’t take long, and I suspect it’s because it really does match the behavior on the X. It’s quite close. I suspect if/when I upgrade my X to iOS 12 they’ll feel nearly identical.</p>\n",
+      "url": "https://micro.blog/avi/675839",
+      "date_published": "2018-06-28T17:28:15+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2018-06-28  5:28 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": true
+      }
+    },
+    {
+      "id": "675838",
+      "content_html": "<p><a href=\"https://micro.blog/jl_siewert\">@jl\\_siewert</a> interesting. Yes, but it does feel unified for someone using an iPad and an iPhone X, like me. I’d guess that all new iPhones going forward will use the new model. Possibly yet another case of Apple prioritizing “the future” over current user’s realities. Just curious: do you use an iPhone 8(s) or a prior model?</p>\n",
+      "url": "https://micro.blog/avi/675838",
+      "date_published": "2018-06-28T17:26:43+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2018-06-28  5:26 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": true
+      }
+    },
+    {
+      "id": "659763",
+      "content_html": "<p><a href=\"https://micro.blog/eli\">@eli</a> yum!</p>\n",
+      "url": "https://micro.blog/avi/659763",
+      "date_published": "2018-06-21T18:20:47+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2018-06-21  6:20 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": true
+      }
+    },
+    {
+      "id": "536401",
+      "content_html": "<p><a href=\"https://micro.blog/douglane\">@douglane</a> very cool, thanks!</p>\n",
+      "url": "https://micro.blog/avi/536401",
+      "date_published": "2018-05-04T18:22:27+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2018-05-04  6:22 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": true
+      }
+    },
+    {
+      "id": "536389",
+      "content_html": "<p><a href=\"https://micro.blog/eli\">@eli</a> it rings a bell but I don’t know if I’ve ever looked at it closely. I will now — thanks for the tip!</p>\n",
+      "url": "https://micro.blog/avi/536389",
+      "date_published": "2018-05-04T18:20:21+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2018-05-04  6:20 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": true
+      }
+    },
+    {
+      "id": "536384",
+      "content_html": "<p><a href=\"https://micro.blog/eli\">@eli</a> thanks, I did! And thanks for the food for thought!</p>\n",
+      "url": "https://micro.blog/avi/536384",
+      "date_published": "2018-05-04T18:18:41+00:00",
+      "author": {
+        "name": "Avi Flax",
+        "url": "https://avi.micro.blog/",
+        "avatar": "https://www.gravatar.com/avatar/81716107a9f18397945286898e2165f8?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+        "_microblog": {
+          "username": "avi"
+        }
+      },
+      "_microblog": {
+        "date_relative": "2018-05-04  6:18 pm",
+        "is_favorite": false,
+        "is_bookmark": false,
+        "is_deletable": false,
+        "is_conversation": true
+      }
+    }
+  ]
+}

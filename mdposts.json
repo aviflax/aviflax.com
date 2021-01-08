@@ -1,0 +1,1003 @@
+{
+  "items": [{
+    "type": "h-entry",
+    "properties": {
+      "uid": [1220964],
+      "name": [""],
+      "content": ["Today was my first day as a software developer at [Modern Energy](https://modern.energy/)! I’m thrilled to be joining the fight to mitigate climate change. \n\nSpecial thanks to [Luke VanderHart](https://twitter.com/levanderhart) for introducing me, and to [Bret Victor][bv] for  his inspiring essay [What can a Technologist do About Climate Change?](http://worrydream.com/ClimateChange/)\n\n[bv]: http://worrydream.com/"],
+      "published": ["2020-11-17T03:24:00+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2020/11/16/today-was-my.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [1212733],
+      "name": ["Voted!"],
+      "content": ["Voted! At the federal level, for Biden+Harris and Mondaire Jones, on the Working Families ticket.\n\nWhat a relief! I’ve been feeling anxious about the political situation here, and it helps to know that I’ve cast my ballot.\n\nIf you’re a citizen, **please vote**, and **vote for Biden+Harris!** They will do a drastically better job at protecting the health, security, welfare, and future of the people of the USA than any other candidates."],
+      "published": ["2020-11-01T21:25:00+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2020/11/01/voted.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [1201819],
+      "name": [""],
+      "content": ["Happy Indigenous Peoples’ Day!\n\nIf you’re a US resident, take a few minutes to learn [what it might look like if the US honored its treaties with indigenous peoples](https://www.vox.com/first-person/2019/9/23/20872713/native-american-indian-treaties).\n\n\u003cimg src=\"https://blog.aviflax.com/uploads/2020/18c6e71167.jpg\" width=\"600\" height=\"423\" alt=\"Screenshot of the above-the-fold content of the linked Vox article, including a photo, headline, subtitle, and byline. Photo caption: An activist fights the wind while walking along Flag Road in Oceti Sakowin Camp as blizzard conditions grip the area around the Standing Rock Sioux Reservation outside Cannon Ball, North Dakota on December 6, 2016. Scott Olson/Getty Images.\" /\u003e"],
+      "published": ["2020-10-12T14:46:54+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2020/10/12/happy-indigenous-peoples.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [1190449],
+      "name": [""],
+      "content": ["גמר חתימה טובה לכולם"],
+      "published": ["2020-09-27T21:38:49+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2020/09/27/173849.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [1168116],
+      "name": [""],
+      "content": ["Every time I come back to AWS after some time away:\n\n\u003cimg src=\"https://blog.aviflax.com/uploads/2020/30ce2164f1.jpg\" width=\"600\" height=\"450\" alt=\"Image macro: photo of an irate Jimmy McMillan, founder of New York’s The Rent Is Too Damn High party, overlaid with the text “THE COGNITIVE LOAD IS TOO DAMN HIGH”\" /\u003e"],
+      "published": ["2020-08-28T14:44:36+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2020/08/28/every-time-i.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [1165957],
+      "name": ["#DeleteFacebook"],
+      "content": ["If you have a Facebook account, even if you rarely or never use it, please read [this article](https://www.nbcnews.com/tech/tech-news/qanon-looms-behind-nationwide-rallies-viral-hashtags-n1237722) and consider deleting that account.\n\nFacebook is a parasite. It’s hurting humanity. #DeleteFacebook"],
+      "published": ["2020-08-23T21:17:49+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2020/08/23/deletefacebook-if-you.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [1144258],
+      "name": [""],
+      "content": ["\n\n\u003cimg src=\"https://blog.aviflax.com/uploads/2020/7d329cef9a.jpg\" width=\"600\" height=\"600\" alt=\"\" /\u003e"],
+      "published": ["2020-07-22T15:55:25+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2020/07/22/105525.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [1132759],
+      "name": ["TIL: In Docker for Mac, there is a default memory limit of 2GB…"],
+      "content": ["TIL:\n\n\u003e In Docker for Mac, there is a default memory limit of 2GB, in order to run docker-compose up successfully you have to change default memory settings from 2GB to at least 4 or 5GB. To do so, click on the Docker icon in the menu bar, then “Preferences…”, go to “Advanced” tab and set 5GB of memory, then click on “Apply \u0026 Restart” and run docker-compose up.\n\n[source](https://documentation.wazuh.com/2.1/docker/wazuh-container.html#docker-for-osx)"],
+      "published": ["2020-07-02T21:59:27+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2020/07/02/til-in-docker.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [1042078],
+      "name": [""],
+      "content": ["Be kind to your bots!\n\n\u003cimg src=\"https://blog.aviflax.com/uploads/2020/079da73be3.jpg\" width=\"600\" height=\"350\" alt=\"\" /\u003e"],
+      "published": ["2020-03-18T02:25:59+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2020/03/17/be-kind-to.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [1036208],
+      "name": [""],
+      "content": ["Holy💩 [Coda](https://coda.io/) is amazing. Truly impressive, compelling, fantastic!"],
+      "published": ["2020-03-01T20:03:28+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2020/03/01/holy-coda-is.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [1003825],
+      "name": [""],
+      "content": ["Yesterday I learned via [this answer](https://discuss.atom.io/t/a-way-to-exclude-folders-from-find-in-project/9861/6) a handy [Atom](https://atom.io) trick: one can exclude directories from the _Find in Project_ feature by prefixing them with an exclamation mark, like so: `!dir`\n\nThis is handy when a project contains “archived” (frozen) files, or a generated dir like Jekyll’s `_site`.\n\n\u003cimg src=\"https://blog.aviflax.com/uploads/2019/7fa25b8c8e.jpg\" width=\"458\" height=\"294\" alt=\"\" /\u003e"],
+      "published": ["2019-12-24T15:00:19+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/12/24/yesterday-i-learned.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [985560],
+      "name": [""],
+      "content": ["I just randomly tried to run [`pico`](https://en.wikipedia.org/wiki/Pico_(text_editor)) — wow, blast from the past!"],
+      "published": ["2019-12-04T21:26:31+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/12/04/i-just-randomly.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [980082],
+      "name": [""],
+      "content": ["I spoke at the [Clojure/conj](https://2019.clojure-conj.org/) last week, on _(Architecture) Diagrams as ✨Data✨_\n\nI’m very happy with how it came out. Thank you to everyone who helped me prepare and everyone who gave me feedback!\n\nIf you’d like, you can check out [the description](http://2019.clojure-conj.org/speaker-avi-flax/), [the slides](https://github.com/aviflax/presentations/tree/master/diagrams-as-data), or [the video](https://youtu.be/HmHOYkTVxIg).\n\n\u003cimg src=\"https://blog.aviflax.com/uploads/2019/35e868f800.jpg\" width=\"600\" height=\"337\" alt=\"\" /\u003e"],
+      "published": ["2019-11-25T17:34:03+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/11/25/i-spoke-at.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [975496],
+      "name": [""],
+      "content": ["🤔 It’d be handy if I could assign a title to a given browser window — i.e. a set of tabs — so I could group sets of tabs by activity or topic.\n\nIt looks like there are a few Firefox extensions that do this, but it’s unclear how effective they are on MacOS. I’ll have to try them."],
+      "published": ["2019-11-15T18:22:12+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/11/15/itd-be-handy.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [959013],
+      "name": [""],
+      "content": ["I just proposed a ⚡️ lightning talk for [the next Write the Docs NYC meetup](https://www.meetup.com/WriteTheDocsNYC/events/265751514/): _Storytelling with Git_.\n\n\u003cimg src=\"https://blog.aviflax.com/uploads/2019/e62b749c3c.jpg\" width=\"600\" height=\"277\" alt=\"Screenshot of a Web form (a Google Forms… form) showing the field “Talk title” with the value “Storytelling with Git” and “Talk description” with “I’ll show how documentarians and developers can document the ongoing story of their projects with Git, and explain why they should. I prepared this for WtD Portland this past May but I was bumped due to time constraints. I have a slide deck prepared that I’d be happy to share if you’d like to see it. Thanks for organizing!”\" /\u003e"],
+      "published": ["2019-10-18T17:11:22+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/10/18/i-just-proposed.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [959010],
+      "name": [""],
+      "content": ["Writing a talk. What can I say, I’m super original.\n\n\u003cimg src=\"https://blog.aviflax.com/uploads/2019/5d743095be.jpg\" width=\"600\" height=\"298\" alt=\"Screenshot of part of a text editor containing some text from the draft of a talk I’m working on. The text has an image placeholder with the label “obligatory morpheus image macro” and then a phrase I guess I’d say along with this slide: “What if I told you…”\" /\u003e"],
+      "published": ["2019-10-18T16:53:43+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/10/18/writing-a-talk.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [955928],
+      "name": ["Aphantasia: yes, it’s a thing"],
+      "content": ["Just now, while writing a presentation with my Mac, I typed “aphantasia” and noticed that the spell-checker flagged it as an unknown word/spelling.\n\nThis made me chuckle. I’m used to having to explain [aphantasia](https://en.wikipedia.org/wiki/Aphantasia) to humans — so why shouldn’t I have to teach my computer about it too!\n\nIt was first described in 1880; it’s really a thing! And yes, I really have it.\n\nI’m still blown away by how compellingly Blake Ross [described it](https://www.facebook.com/notes/blake-ross/aphantasia-how-it-feels-to-be-blind-in-your-mind/10156834777480504/):\n\n\u003e I have never visualized anything in my entire life. I can’t “see” my father's face or a bouncing blue ball, my childhood bedroom or the run I went on ten minutes ago. I thought “counting sheep” was a metaphor. I’m 30 years old and I never knew a human could do any of this.\n\n\u003cimg src=\"https://blog.aviflax.com/uploads/2019/4454b11553.jpg\" width=\"430\" height=\"600\" alt=\"Screenshot of a draft of this post open in the Micro.blog app on MacOS, showing the word “aphantasia” with a red squiggly underline, indicating that the computer has flagged it as an unknown or misspelled word.\" /\u003e"],
+      "published": ["2019-10-16T20:58:55+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/10/16/aphantasia-yes-its.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [954201],
+      "name": ["New release of the FC4 Framework adds ability to render to SVG"],
+      "content": ["I’ve published [a new release](https://github.com/FundingCircle/fc4-framework/releases/tag/release_2019.10.03-6bb09fb) of [FC4](https://fundingcircle.github.io/fc4-framework/), a [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) framework for authoring \u0026 maintaining [C4](https://c4model.com) software architecture diagrams.\n\nThis release adds the ability to render diagrams to [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics) in addition to (and even simultaneously with) [PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics).\n\nThanks to [Mike Fiedler](https://about.me/miketheman) for [the feature request](https://github.com/FundingCircle/fc4-framework/issues/200) and to \n [Simon Brown](http://simonbrown.je/) for [Structurizr](https://structurizr.com/) and [Structurizr Express](https://structurizr.com/express)!"],
+      "published": ["2019-10-10T18:33:51+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/10/10/new-release-of.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [955594],
+      "name": [""],
+      "content": ["Before, during, and after the lower east side pickle festival!\n\n\u003cimg src=\"https://blog.aviflax.com/uploads/2019/706f105965.jpg\" width=\"600\" height=\"600\" alt=\"\" /\u003e\u003cimg src=\"https://blog.aviflax.com/uploads/2019/ebde4e2dc8.jpg\" width=\"600\" height=\"600\" alt=\"\" /\u003e\u003cimg src=\"https://blog.aviflax.com/uploads/2019/6a1608ead5.jpg\" width=\"600\" height=\"600\" alt=\"\" /\u003e"],
+      "published": ["2019-10-07T18:14:09+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/10/07/before-during-and.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [955595],
+      "name": [""],
+      "content": ["That’s quite a station car.\n\n\u003cimg src=\"https://blog.aviflax.com/uploads/2019/cd49bf5e51.jpg\" width=\"600\" height=\"600\" alt=\"\" /\u003e"],
+      "published": ["2019-10-07T16:37:52+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/10/07/thats-quite-a.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [950759],
+      "name": [""],
+      "content": ["On a lark, I just installed [Lynx](https://lynx.invisible-island.net) and used it to view [the homepage of the FC4 Framework](https://fundingcircle.github.io/fc4-framework/). It looked great! I got a real kick out of this; it took me way back. I was also pleased to see that the structure and content of the page worked well when represented in plain text.\n\n\u003cimg src=\"https://blog.aviflax.com/uploads/2019/1a3fbe9360.jpg\" width=\"600\" height=\"480\" alt=\"Screenshot of the homepage of the FC4 Framework loaded in Lynx in a MacOS (10.14 Mojave) Terminal window.\" /\u003e"],
+      "published": ["2019-10-04T20:31:32+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/10/04/on-a-lark.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [941492],
+      "name": [""],
+      "content": ["I just released a [new version][release] of [FC4][fc4], a [FLOSS][floss] framework for authoring,\npublishing, and maintaining [C4][c4] software architecture diagrams.\n\nThe (abbreviated) highlights:\n\n* Rendering multiple diagrams is faster and more efficient\n* The versioning scheme has changed to work better with [Homebrew][brew]\n\nThe release notes contain more details, including upgrading instructions.\n\nI’d welcome any feedback you’d care to share!\n\n[brew]: https://brew.sh/\n[c4]: https://c4model.com/\n[fc4]: https://fundingcircle.github.io/fc4-framework/\n[floss]: https://en.wikipedia.org/wiki/Free_and_open-source_software\n[release]: https://github.com/FundingCircle/fc4-framework/releases/tag/release_2019.09.10-c987903"],
+      "published": ["2019-09-12T14:45:00+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/09/12/i-released-a.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [925979],
+      "name": [""],
+      "content": ["Anyone else use an iPad with an external keyboard (Bluetooth in my case) and found that Safari is *really* flaky when it comes to responding to keyboard shortcuts? Maybe there’s some kind of focus thing I’m missing, but I’ve been really annoyed by this apparent bug."],
+      "published": ["2019-08-29T15:10:33+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/08/29/anyone-else-use.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [925528],
+      "name": [""],
+      "content": ["I just used [Proporti.onl](https://www.proporti.onl/) to estimate the gender distribution of my Twitter followers and those I follow, based on their profile descriptions or first names. It’s not great: 1% non-binary, 36% women, 62% men. I’m gonna work on this.\n\n\u003cimg src=\"https://blog.aviflax.com/uploads/2019/c0d32744b6.jpg\" width=\"600\" height=\"361\" alt=\"\" /\u003e"],
+      "published": ["2019-08-28T16:19:25+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/08/28/i-just-used.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [925526],
+      "name": [""],
+      "content": ["I’ve been playing around with the recently upgraded @GitHub Actions and it was surprisingly easy to port some CircleCI jobs. Some intriguing features!\n\n(The jobs are a little slower, but I suspect that’s largely due to the lack of dependency caching, and [they’re working on that](https://twitter.com/mscccc/status/1166505708990263296).)\n\n\u003cimg src=\"https://blog.aviflax.com/uploads/2019/3199f70138.jpg\" width=\"600\" height=\"544\" alt=\"Screenshot of this run of GitHub Actions: https://github.com/FundingCircle/fc4-framework/runs/205850664\" /\u003e"],
+      "published": ["2019-08-28T16:08:35+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/08/28/ive-been-playing.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [946863],
+      "name": [""],
+      "content": ["As someone who likes both beer and kombucha, I thought I might like this. And I was right. Good stuff!\n\n\u003cimg src=\"https://blog.aviflax.com/uploads/2019/0bd0d2f308.jpg\" width=\"600\" height=\"600\" alt=\"\" /\u003e"],
+      "published": ["2019-08-28T14:29:18+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/08/28/as-someone-who.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [924504],
+      "name": [""],
+      "content": ["This is amazing: [noparkinghere.com](https://noparkinghere.com/)\n\n/via [@daveliepmann](https://twitter.com/daveliepmann/status/1166337491634462720)\n\n\u003cimg src=\"https://blog.aviflax.com/uploads/2019/898faad222.jpg\" width=\"600\" height=\"600\" alt=\"Screenshot of Web essay at noparkinghere.com\" /\u003e"],
+      "published": ["2019-08-27T14:00:38+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/08/27/this-is-amazing.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [920576],
+      "name": [""],
+      "content": ["Don’t tell my kid — I’m selling our Mini. She is NOT happy. 😅\n\n\u003cimg src=\"https://blog.aviflax.com/uploads/2019/a7460f0203.jpg\" width=\"600\" height=\"600\" alt=\"\" /\u003e"],
+      "published": ["2019-08-16T02:04:02+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/08/15/dont-tell-my.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [919929],
+      "name": [""],
+      "content": ["App idea: _Reliable Regular Reminders_. Pops up reminders reliably at the designated time — daily, weekly, fortnightly, monthly, etc — and each “instance” of each reminder is supplanted by the following “instance”.\n\n(Yeah, I’m really frustrated with the iOS Reminders app.)"],
+      "published": ["2019-08-14T15:07:29+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/08/14/app-idea-reliable.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [919682],
+      "name": [""],
+      "content": ["Interesting idea came up in a recent chat with a colleague: that remote members of hybrid teams need on-site allies to speak up on their behalf, to make sure in-person meetings are recorded, or notes are shared; to address A/V issues; to invite them to ad-hoc meetings, etc."],
+      "published": ["2019-08-13T15:52:19+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/08/13/interesting-idea-came.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [918678],
+      "name": [""],
+      "content": ["\n\n\u003cimg src=\"https://blog.aviflax.com/uploads/2019/3e4b0fec47.jpg\" width=\"600\" height=\"600\" alt=\"\" /\u003e\u003cimg src=\"https://blog.aviflax.com/uploads/2019/989aae8868.jpg\" width=\"600\" height=\"600\" alt=\"\" /\u003e"],
+      "published": ["2019-08-09T10:14:35+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/08/09/061435.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [913886],
+      "name": [""],
+      "content": ["First text message from the kid 😂\n\n\u003cimg src=\"https://blog.aviflax.com/uploads/2019/2b24778456.jpg\" width=\"600\" height=\"313\" alt=\"\" /\u003e"],
+      "published": ["2019-08-01T16:08:06+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/08/01/first-text-message.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [912669],
+      "name": [""],
+      "content": ["This is amazing — the authors of the tool Kodiak [documented](https://github.com/chdsbd/kodiak#prior-art) the differences between it and 13 alternatives in an extremely clear table. I ❤️this!\n\n\u003cimg src=\"https://blog.aviflax.com/uploads/2019/fe01d5e6c2.jpg\" width=\"600\" height=\"517\" alt=\"\" /\u003e"],
+      "published": ["2019-07-29T18:39:40+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/07/29/this-is-amazing.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [912365],
+      "name": [""],
+      "content": ["I stumbled downstairs this morning to find the kid (6) playing a **math** game on her device! 😮🥳"],
+      "published": ["2019-07-28T12:44:59+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/07/28/i-stumbled-downstairs.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [910693],
+      "name": [""],
+      "content": ["Idea: a feedback escrow service"],
+      "published": ["2019-07-25T17:41:10+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/07/25/idea-a-feedback.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [909953],
+      "name": [""],
+      "content": ["I ❤️ git hooks, but I’m happier now that I’ve converted my pre-commit hook to a pre-push hook. Turns out I like to commit often, even — especially — when the work is still a mess — and clean it up before pushing. This new setup lets me stay in the flow!"],
+      "published": ["2019-07-23T22:55:57+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/07/23/i-git-hooks.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [907144],
+      "name": [""],
+      "content": ["US citizens/residents: if, like me, you’re giving Amazon more of your hard-earned money today or tomorrow during their contrived day of consumption, please join me in giving matching donations to [RAICES](https://www.raicestexas.org/) or any org working to help immigrants and refugees at our southern border."],
+      "published": ["2019-07-15T13:40:22+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/07/15/us-citizensresidents-if.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [904090],
+      "name": [""],
+      "content": ["Yum\n\n\u003cimg src=\"https://blog.aviflax.com/uploads/2019/5d0f1dbe00.jpg\" width=\"600\" height=\"600\" alt=\"\" /\u003e"],
+      "published": ["2019-07-07T23:23:29+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/07/07/yum.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [901883],
+      "name": [""],
+      "content": ["[See You Yesterday](https://en.wikipedia.org/wiki/See_You_Yesterday) is a wonderful film. Moving, fun, intriguing, and exciting. Highly recommended!"],
+      "published": ["2019-06-30T23:28:05+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/06/30/see-you-yesterday.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [892319],
+      "name": [""],
+      "content": ["Just published [my highlights from the wonderful Write the Docs Portland 2019 conference](https://engineering.fundingcircle.com/blog/2019/06/06/write-the-docs-portland-2019/) — I’m super grateful that this conference exists and I was able to attend!\n\n#writethedocs"],
+      "published": ["2019-06-06T18:41:47+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/06/06/just-published-my.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [889244],
+      "name": [""],
+      "content": ["I’m trying out [Vale](https://errata-ai.github.io/vale/) to lint my prose, and I’m feeling super called out here… 😱\n\n\u003cimg src=\"https://blog.aviflax.com/uploads/2019/3589e5197c.jpg\" width=\"600\" height=\"307\" alt=\"Screenshot of results of running Vale on the homepage of the FC4 Framework, showing 0 errors, 6 warnings, and 0 suggestions via the write-good style. Of those 6 warnings, 2 are TooWordy, 3 are Passive, and 1 is Weasel.\" /\u003e"],
+      "published": ["2019-05-28T21:17:45+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/05/28/im-trying-out.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [889335],
+      "name": [""],
+      "content": ["Spotted in PDX. Inspired by @elinarachel?\n\n\u003cimg src=\"https://blog.aviflax.com/uploads/2019/d608d6c3f7.jpg\" width=\"600\" height=\"600\" alt=\"\" /\u003e"],
+      "published": ["2019-05-28T16:00:18+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/05/28/spotted-in-pdx.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [886991],
+      "name": [""],
+      "content": ["Just gave a fun little talk at the #writethedocs PDX 2019 unconference: _Storytelling with Git._\n\nI’d love some suggestions of other events or contexts that might be a good place for this talk!\n\nBTW #writethedocs PDX 2019 is fantastic!"],
+      "published": ["2019-05-21T22:37:45+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/05/21/just-gave-a.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [884087],
+      "name": [""],
+      "content": ["Anyone know of a way to use @github’s “team discussions” feature to host fully public discussions in a public repo? So far my impression is it that it’s oriented around internal discussions within an org. I’d **love** to use @discourse but my project isn’t big enough 😞 — **yet!** 😅"],
+      "published": ["2019-05-13T16:56:42+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/05/13/anyone-know-of.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [883131],
+      "name": [""],
+      "content": ["New/recent albums I’ve been enjoying:\n\n💿 Young Enough by Charly Bliss\n💿 Morbid Stuff by PUP\n💿 Father of the Bride by Vampire Weekend\n💿 This Land by Gary Clark Jr.\n💿 There Will Be No Intermission by Amanda Palmer\n💿 Tides of a Teardrop by Mandolin Orange\n\nWhat about you?"],
+      "published": ["2019-05-10T19:02:46+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/05/10/newrecent-albums-ive.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [882640],
+      "name": [""],
+      "content": ["\n\n\u003cimg src=\"https://blog.aviflax.com/uploads/2019/8907e55fa3.jpg\" width=\"600\" height=\"600\" alt=\"\" /\u003e"],
+      "published": ["2019-05-08T02:39:11+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/05/07/223911.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [878252],
+      "name": [""],
+      "content": ["Just bought tix to see Charly Bliss and CHVRCHES at Radio City Music Hall in July!"],
+      "published": ["2019-04-25T18:40:23+00:00"],
+      "post-status": ["published"],
+      "url": ["https://blog.aviflax.com/2019/04/25/just-bought-tix.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [875479],
+      "name": [""],
+      "content": ["This article by @linclark is a wonderful exemplar of lucid, accessible, compelling technical writing:\n\n[Standardizing WASI: A system interface to run WebAssembly outside the web](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)\n\n/via @solomonstre\n\n#wasm"],
+      "published": ["2019-04-16T20:30:33+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2019/04/16/this-article-by.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [868746],
+      "name": [""],
+      "content": ["I’m not even mad!\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2019/4bb7b3895c.jpg\" width=\"600\" height=\"600\" alt=\"\" /\u003e"],
+      "published": ["2019-04-02T23:24:18+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2019/04/02/im-not-even.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [868544],
+      "name": [""],
+      "content": ["I just got a replacement debit card from my bank; apparently they’re proactively upgrading everyone in my area to contactless cards for use with public transit. Cool, but in addition to the contactless feature and the chip, my new card also has old school raised numbers! 🧐😂😭😎"],
+      "published": ["2019-04-02T12:43:40+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2019/04/02/i-just-got.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [865349],
+      "name": [""],
+      "content": ["Would everyone *please* just *stop* force-pushing squashed changes to GitHub Pull Requests that are under review! 🤦‍♂️"],
+      "published": ["2019-03-28T16:39:54+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2019/03/28/would-everyone-please.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [859454],
+      "name": [""],
+      "content": ["High-tech Purim!\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2019/757627fdf0.jpg\" width=\"560\" height=\"600\" alt=\"\" /\u003e"],
+      "published": ["2019-03-21T16:09:39+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2019/03/21/hightech-purim.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [859391],
+      "name": [""],
+      "content": ["Have a Super Purim! חג פורים שמח!\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2019/1755c449d3.jpg\" width=\"400\" height=\"600\" alt=\"Purim card showing my daughter wearing a Wonder Woman costume, smiling, with her arms in the air triumphantly. Caption along the bottom says “Have a Super Purim! ❤️ the Flaxes!”\" /\u003e"],
+      "published": ["2019-03-21T13:53:57+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2019/03/21/have-a-super.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [857426],
+      "name": [""],
+      "content": ["I’ve been making software professionally for over 20 years, and I’m still baffled by how many of my peers dislike written communication.\n\nWe have dozens of information systems at our fingertips, but sure, let’s make decisions verbally and neglect to write down their rationales."],
+      "published": ["2019-03-15T13:15:35+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2019/03/15/ive-been-making.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [857611],
+      "name": [""],
+      "content": ["How many plug-in cars do you see in this shot? London has been making great progress!\n\n#plugincar #plugincars #electriccar #electriccars\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2019/19d895c634.jpg\" width=\"600\" height=\"600\" alt=\"\" /\u003e"],
+      "published": ["2019-03-15T12:26:49+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2019/03/15/how-many-plugin.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [857612],
+      "name": [""],
+      "content": ["Bright\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2019/872c8d9541.jpg\" width=\"600\" height=\"600\" alt=\"\" /\u003e"],
+      "published": ["2019-03-15T12:23:22+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2019/03/15/bright.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [857613],
+      "name": [""],
+      "content": ["😍😍😍\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2019/645937fb1d.jpg\" width=\"600\" height=\"600\" alt=\"\" /\u003e\u003cimg src=\"http://blog.aviflax.com/uploads/2019/cff47acac2.jpg\" width=\"600\" height=\"600\" alt=\"\" /\u003e\u003cimg src=\"http://blog.aviflax.com/uploads/2019/eb7acfbafe.jpg\" width=\"600\" height=\"600\" alt=\"\" /\u003e\u003cimg src=\"http://blog.aviflax.com/uploads/2019/693fc15f75.jpg\" width=\"600\" height=\"600\" alt=\"\" /\u003e\u003cimg src=\"http://blog.aviflax.com/uploads/2019/bad96daffe.jpg\" width=\"600\" height=\"600\" alt=\"\" /\u003e"],
+      "published": ["2019-03-15T03:39:15+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2019/03/14/223915.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [857614],
+      "name": [""],
+      "content": ["Yum\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2019/ee8b63d5de.jpg\" width=\"600\" height=\"449\" alt=\"\" /\u003e"],
+      "published": ["2019-03-15T03:36:28+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2019/03/14/yum.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [857615],
+      "name": [""],
+      "content": ["Enjoying some rays\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2019/2067553086.jpg\" width=\"600\" height=\"600\" alt=\"\" /\u003e"],
+      "published": ["2019-03-15T03:33:01+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2019/03/14/enjoying-some-rays.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [857616],
+      "name": [""],
+      "content": ["\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2019/679752a180.jpg\" width=\"600\" height=\"600\" alt=\"\" /\u003e"],
+      "published": ["2019-03-15T03:28:00+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2019/03/14/222800.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [857617],
+      "name": [""],
+      "content": ["Classic Alfas in White Plains!\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2019/7e068785e6.jpg\" width=\"600\" height=\"341\" alt=\"\" /\u003e\u003cimg src=\"http://blog.aviflax.com/uploads/2019/9bec10782c.jpg\" width=\"600\" height=\"343\" alt=\"\" /\u003e"],
+      "published": ["2019-03-15T03:12:24+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2019/03/14/classic-alfas-in.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [848369],
+      "name": [""],
+      "content": ["I hadn’t realized that The Atlantic had succumbed so completely to the clickbait headline disorder that’s running rampant in the online “news” community. 😞\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2019/8edba45e8d.jpg\" width=\"384\" height=\"600\" alt=\"Screenshot of a “More Stories” sidebar showing a list of clickbait headlines, from an article page on theatlantic.com.\" /\u003e"],
+      "published": ["2019-02-22T16:44:16+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2019/02/22/i-hadnt-realized.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [848077],
+      "name": [""],
+      "content": ["Whelp, my talk proposals to [@WriteTheDocs Portland](https://www.writethedocs.org/conf/portland/2019/) and OSCON have been rejected. 😞 Won’t stop me from going back to Write the Docs though — I was there last year for the first time and it was excellent. Tickets purchased! See you in May, Portland!"],
+      "published": ["2019-02-21T18:51:33+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2019/02/21/whelp-my-talk.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [847346],
+      "name": [""],
+      "content": ["I just listened through the new album _Tides of a Teardrop_ by [_Mandolin Orange_](https://www.mandolinorange.com) and it’s beautiful."],
+      "published": ["2019-02-20T15:15:53+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2019/02/20/i-just-listened.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [846392],
+      "name": [""],
+      "content": ["UK friends! I’ll be speaking at [the 7 March London Clojurians meetup at Funding Circle](https://www.meetup.com/London-Clojurians/events/258992631/)! My talk _Growing a Clojure CLI Tool_ will be a case study in building and growing a usable CLI tool (one that runs tolerably on the JVM 😅). I hope to see you there!"],
+      "published": ["2019-02-19T16:05:11+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2019/02/19/uk-friends-ill.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [845688],
+      "name": [""],
+      "content": ["I finished Kim Stanley Robinson’s new novel [_Red Moon_](https://www.kimstanleyrobinson.info/content/red-moon) last night. I thoroughly enjoyed it! As seems to be usual for his works, it’s a great mix of characters, ideas, and plot that combine into a compelling and thought-provoking experience. Similarly to his excellent _New York 2140_ it manages to remain entertaining while conveying his vibrant geopolitical ideas.\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2019/524e7b9035.jpg\" width=\"389\" height=\"600\" alt=\"Cover image of Kim Stanley Robinson’s novel “Red Moon”\" /\u003e"],
+      "published": ["2019-02-17T15:25:29+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2019/02/17/i-finished-kim.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [845179],
+      "name": [""],
+      "content": ["I just published an update to [the website](https://fundingcircle.github.io/fc4-framework/) for the software architecture diagramming framework I’m working on, featuring an improved definition:\n\n\u003e FC4 is a [_Docs as Code_](https://www.writethedocs.org/guide/docs-as-code/) framework that enables software creators to author, publish, and maintain software architecture diagrams more effectively, efficiently, and collaboratively over time.\n\nIt’s quite a mouthful, I know, but I’m feeling good about it. It feels clear, comprehensive, and usefully specific.\n\nAny and all feedback, suggestions, questions, etc would be welcome!"],
+      "published": ["2019-02-15T19:33:46+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2019/02/15/i-just-published.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [841787],
+      "name": [""],
+      "content": ["I’ve borrowed this Fiat 500E #bev for an extended test drive (fun!) and I think it might be shorter than my Mini Cooper (it’s certainly got much better visibility) so it seems I was able to park *between* two spaces!\n\n#electriccar #sogoodsofar\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2019/c01d68dff3.jpg\" width=\"600\" height=\"313\" alt=\"\" /\u003e"],
+      "published": ["2019-02-07T18:01:47+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2019/02/07/ive-borrowed-this.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [838975],
+      "name": [""],
+      "content": ["This shitty throughput via my Verizon Wireless service is hampering my ability to work at my local library. 😡\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2019/9bce49dc62.jpg\" width=\"600\" height=\"506\" alt=\"\" /\u003e"],
+      "published": ["2019-02-01T15:49:38+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2019/02/01/this-shitty-throughput.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [838971],
+      "name": [""],
+      "content": ["Looks like I’ve got to cut back on my raw photo shooting… I’m a bit trigger-happy 😅\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2019/ffa0844fe6.jpg\" width=\"600\" height=\"245\" alt=\"\" /\u003e"],
+      "published": ["2019-02-01T15:43:47+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2019/02/01/looks-like-ive.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [830488],
+      "name": [""],
+      "content": ["I just upgraded to a (used) 10.5\" iPad Pro (2017) and wow, it knocks the socks off my prior tablet, a 2018 iPad (plain old). Everything is faster, smoother, better looking, better sounding — in fact the speakers are _drastically_ better. Feeling pleasantly surprised + fortunate 😊!"],
+      "published": ["2019-01-17T13:25:36+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2019/01/17/i-just-upgraded.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [820941],
+      "name": [""],
+      "content": ["Just submitted my talk proposal for [Write the Docs Portland 2019](http://www.writethedocs.org/conf/portland/2019/)! 😅\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2019/06376ff0a7.jpg\" width=\"492\" height=\"600\" alt=\"\" /\u003e"],
+      "published": ["2019-01-03T22:07:15+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2019/01/03/just-submitted-my.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [817315],
+      "name": [""],
+      "content": ["[The Cube](https://www.thecubecowork.com/) is a coworking space for parents, with on-site child care — what a great idea!"],
+      "published": ["2018-12-27T13:52:22+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2018/12/27/the-cube-is.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [816116],
+      "name": [""],
+      "content": ["For your consideration.\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2018/860e837636.jpg\" width=\"600\" height=\"600\" alt=\"\" /\u003e"],
+      "published": ["2018-12-21T17:28:16+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2018/12/21/for-your-consideration.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [816117],
+      "name": [""],
+      "content": ["Phenomenal.\n\n#book #novel #fiction #speculativefiction\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2018/62b4f9e3f3.jpg\" width=\"480\" height=\"600\" alt=\"\" /\u003e"],
+      "published": ["2018-12-21T17:23:18+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2018/12/21/phenomenal-book-novel.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [816118],
+      "name": [""],
+      "content": ["My mini-panic before every video meeting.\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2018/6e6ffc235f.jpg\" width=\"600\" height=\"600\" alt=\"\" /\u003e"],
+      "published": ["2018-12-21T17:16:06+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2018/12/21/my-minipanic-before.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [810782],
+      "name": [""],
+      "content": ["I just finished the main story of Insomniac’s fantastic 2018 Spider-Man PS4 game and the scripted ending was gut-wrenching — in a good way. This game felt like a lovingly crafted homage to the Spider-Man comics, and an earnest attempt to capture the magic of those comics. ★★★★"],
+      "published": ["2018-12-11T00:42:29+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2018/12/10/i-just-finished.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [799715],
+      "name": [""],
+      "content": ["[SubEthaEdit is back!](https://rant.monkeydom.de/posts/2018/11/28/see-is-back) This takes me **way** back — I have the warm fuzzies for this app 😊. And now it’s [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)! Thank you [@monkeydom](https://rant.monkeydom.de)!\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2018/ddf7fb519a.jpg\" width=\"600\" height=\"600\" /\u003e\u003cimg src=\"http://blog.aviflax.com/uploads/2018/4982e75d6a.jpg\" width=\"578\" height=\"600\" /\u003e"],
+      "published": ["2018-11-28T15:47:13+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2018/11/28/subethaedit-is-back.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [799683],
+      "name": [""],
+      "content": ["[This](https://www.goodreads.com/book/show/40855636) just arrived! So excited!\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2018/9943c4e4b6.jpg\" width=\"450\" height=\"600\" /\u003e"],
+      "published": ["2018-11-28T13:38:16+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2018/11/28/this-just-arrived.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [796978],
+      "name": [""],
+      "content": ["New shell script to tell me when long-running processes are done — tmwd, short for “tell me when done”\n\n```\nbrew install terminal-notifier\necho \"terminal-notifier -message 'Done\"'!'\"'\" \u003e ~/bin/tmwd\nchmod +x ~/bin/tmwd\n```\n\nI use it like so:\n\n```\nrun-tests; tmwd\n```"],
+      "published": ["2018-11-20T20:53:51+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2018/11/20/new-shell-script.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [788619],
+      "name": [""],
+      "content": ["🚨content warning: extremely geeky🚨\n\nOK, this was cool: I reported [a bug](https://github.com/tree-sitter/tree-sitter-javascript/issues/85) to the JavaScript grammar for Atom’s new parsing system, Tree-sitter, and @maxbrunsfeld fixed it in under 10 minutes!\n\n🚤🙌🚀💪👏🏎 "],
+      "published": ["2018-11-01T22:26:48+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2018/11/01/content-warning-extremely.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [787974],
+      "name": [""],
+      "content": ["Just test-drove a Fiat 500E — really impressive! Liked it way more than I expected to."],
+      "published": ["2018-10-30T20:45:44+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2018/10/30/just-testdrove-a.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [788063],
+      "name": [""],
+      "content": ["The greenline tires are an amazing detail.\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2018/129e2750de.jpg\" width=\"600\" height=\"356\" /\u003e"],
+      "published": ["2018-10-30T03:42:25+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2018/10/29/the-greenline-tires.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [783920],
+      "name": [""],
+      "content": ["Good for you, [Greenburgh Public Library](https://www.greenburghlibrary.org/), for having a [Dresden Dolls](http://dresdendolls.com/) CD! Great album!\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2018/ce566bcd19.jpg\" width=\"600\" height=\"600\" /\u003e"],
+      "published": ["2018-10-18T15:33:23+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2018/10/18/good-for-you.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [783423],
+      "name": [""],
+      "content": ["New post on the Funding Circle Engineering Blog: [Highlights from Strange Loop 2018](https://engineering.fundingcircle.com/blog/2018/10/15/highlights-from-strange-loop-2018/) by me and my co-worker @kidpollo.\n\nSpoiler alert: @strangeloop_stl is still the best software development conference I’ve ever attended!\n\nPhotos: Simon Peyton-Jones’ inspiring keynote.\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2018/67a13c2aa3.jpg\" width=\"600\" height=\"450\" /\u003e\u003cimg src=\"http://blog.aviflax.com/uploads/2018/929caf9a0e.jpg\" width=\"600\" height=\"450\" /\u003e\u003cimg src=\"http://blog.aviflax.com/uploads/2018/0960cb5994.jpg\" width=\"600\" height=\"450\" /\u003e\u003cimg src=\"http://blog.aviflax.com/uploads/2018/d8ea997233.jpg\" width=\"600\" height=\"450\" /\u003e"],
+      "published": ["2018-10-16T15:33:41+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2018/10/16/new-post-on.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [783402],
+      "name": [""],
+      "content": ["The new [Carfection review of the Porsche 911 GT2 RS](https://youtu.be/Tber4uD-G8Q) is stunningly beautiful. Catchpole’s contemplative patter pairs perfectly with the images, the pace of the cuts, etc. The whole Carfection crew just keeps consistently leveling up their game; their films are a real pleasure."],
+      "published": ["2018-10-16T13:38:27+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2018/10/16/the-new-carfection.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [781513],
+      "name": [""],
+      "content": ["If you or anyone you know has been meaning to learn how to use @apachekafka with Ruby, check out [Learn You Some Kafka](https://github.com/FundingCircle/learn-you-some-kafka), a set of atomic, bite-sized, highly-focused hands-on exercises that teach how to work with Kafka."],
+      "published": ["2018-10-11T14:30:51+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2018/10/11/if-you-or.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [781108],
+      "name": [""],
+      "content": ["Building our Sukkah!\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2018/f709b1dc53.jpg\" width=\"600\" height=\"600\" /\u003e\u003cimg src=\"http://blog.aviflax.com/uploads/2018/6f29e6108f.jpg\" width=\"600\" height=\"599\" /\u003e\u003cimg src=\"http://blog.aviflax.com/uploads/2018/8c53bdb46b.jpg\" width=\"600\" height=\"599\" /\u003e"],
+      "published": ["2018-10-10T12:09:19+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2018/10/10/building-our-sukkah.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [781109],
+      "name": [""],
+      "content": ["Test shot with our Canon M100 and its 55–200mm kit zoom. Not bad!\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2018/8703a2eaed.jpg\" width=\"600\" height=\"600\" /\u003e"],
+      "published": ["2018-10-10T12:01:00+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2018/10/10/test-shot-with.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [767395],
+      "name": [""],
+      "content": ["I’m going to try to resume tracking the films I watch, and want to watch, in [my Letterboxd profile](https://letterboxd.com/aviflax/)."],
+      "published": ["2018-09-30T01:20:03+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2018/09/29/im-going-to.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [767394],
+      "name": [""],
+      "content": ["My Life as a Zucchini is a beautiful, beautiful film."],
+      "published": ["2018-09-30T01:14:47+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2018/09/29/my-life-as.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [764768],
+      "name": [""],
+      "content": ["I am functioning within normal parameters."],
+      "published": ["2018-09-27T03:08:50+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2018/09/26/i-am-functioning.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [762253],
+      "name": [""],
+      "content": ["New home screen wallpaper\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2018/0566c7a8d0.jpg\" width=\"277\" height=\"600\" /\u003e"],
+      "published": ["2018-09-21T17:41:12+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2018/09/21/new-home-screen.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [759199],
+      "name": [""],
+      "content": ["Extra ginger\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2018/286879416c.jpg\" width=\"600\" height=\"600\" /\u003e"],
+      "published": ["2018-09-17T20:02:53+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2018/09/17/extra-ginger.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [758904],
+      "name": [""],
+      "content": ["That moment.\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2018/3dbdb0169a.jpg\" width=\"480\" height=\"600\" /\u003e"],
+      "published": ["2018-09-16T19:34:09+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2018/09/16/that-moment.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [758905],
+      "name": [""],
+      "content": ["On Thursday a friend gave me a spare ticket to see Gary Clark Jr. last night at the Capitol Theatre in Port Chester. I’d never heard of him, but what the hell‽ Turned out to be a fantastic blues rock show. I’ve been listening to his 2014 live album \u0026 it’s great!\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2018/b507fad440.jpg\" width=\"600\" height=\"314\" /\u003e"],
+      "published": ["2018-09-16T17:06:35+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2018/09/16/on-thursday-a.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [758906],
+      "name": [""],
+      "content": ["Spinach, kale, broccoli, cucumber, avocado, and ginger. Yum!\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2018/8ef9091cdd.jpg\" width=\"600\" height=\"449\" /\u003e"],
+      "published": ["2018-09-16T17:05:34+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2018/09/16/170534.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [758907],
+      "name": [""],
+      "content": ["Walking around Manhattan on a rainy night, listening to Björk: quite atmospheric.\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2018/46d8a6dadd.jpg\" width=\"480\" height=\"600\" /\u003e\u003cimg src=\"http://blog.aviflax.com/uploads/2018/9b1d77db83.jpg\" width=\"481\" height=\"600\" /\u003e\u003cimg src=\"http://blog.aviflax.com/uploads/2018/69eb4b6f04.jpg\" width=\"480\" height=\"600\" /\u003e\u003cimg src=\"http://blog.aviflax.com/uploads/2018/980b3299de.jpg\" width=\"481\" height=\"600\" /\u003e"],
+      "published": ["2018-09-16T17:03:50+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2018/09/16/170350.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [758075],
+      "name": [""],
+      "content": ["If anyone (shorter than me) wants to get started auto racing this lightly modified [1999 Mazda Miata Sport in Georgia](https://savannah.craigslist.org/cto/d/1999-mazda-miata-sport/6683705397.html) looks like a great first race car that you could also probably daily drive."],
+      "published": ["2018-09-14T15:45:59+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2018/09/14/if-anyone-shorter.html"]
+    }
+  }, {
+    "type": "h-entry",
+    "properties": {
+      "uid": [758061],
+      "name": [""],
+      "content": ["Yesterday a friend gave me a spare ticket to see [Gary Clark Jr.](http://www.garyclarkjr.com) last night at the [Capitol Theatre](http://www.thecapitoltheatre.com) in [Port Chester](https://en.wikipedia.org/wiki/Port_Chester%2C_New_York). I’d never heard of him, but what the hell‽ Turned out to be a fantastic [blues rock](https://en.wikipedia.org/wiki/Blues_rock) show. Now I’m listening to [his 2014 live album](http://www.garyclarkjr.com/album/live-23046) \u0026 it’s great!\n\n\u003cimg src=\"http://blog.aviflax.com/uploads/2018/230d650e76.jpg\" width=\"600\" height=\"314\" /\u003e"],
+      "published": ["2018-09-14T15:13:13+00:00"],
+      "post-status": ["published"],
+      "url": ["http://blog.aviflax.com/2018/09/14/yesterday-a-friend.html"]
+    }
+  }]
+}

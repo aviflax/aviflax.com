@@ -1,0 +1,184 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Avi Flax",
+	"icon": "https://micro.blog/avi/avatar.jpg",
+	"home_page_url": "https://blog.aviflax.com/",
+	"feed_url": "https://blog.aviflax.com/feed.json",
+	"items": [
+			{
+				"id": "http://avi.micro.blog/2020/11/16/today-was-my.html",
+				
+				"content_html": "<p>Today was my first day as a software developer at <a href=\"https://modern.energy/\">Modern Energy</a>! I’m thrilled to be joining the fight to mitigate climate change.</p>\n\n<p>Special thanks to <a href=\"https://twitter.com/levanderhart\">Luke VanderHart</a> for introducing me, and to <a href=\"http://worrydream.com/\">Bret Victor</a> for  his inspiring essay <a href=\"http://worrydream.com/ClimateChange/\">What can a Technologist do About Climate Change?</a></p>\n",
+				"date_published": "2020-11-16T22:24:50-05:00",
+				"url": "https://blog.aviflax.com/2020/11/16/today-was-my.html"
+			},
+			{
+				"id": "http://avi.micro.blog/2020/11/01/voted.html",
+				"title": "Voted!",
+				"content_html": "<p>Voted! At the federal level, for Biden+Harris and Mondaire Jones, on the Working Families ticket.</p>\n\n<p>What a relief! I’ve been feeling anxious about the political situation here, and it helps to know that I’ve cast my ballot.</p>\n\n<p>If you’re a citizen, <strong>please vote</strong>, and <strong>vote for Biden+Harris!</strong> They will do a drastically better job at protecting the health, security, welfare, and future of the people of the USA than any other candidates.</p>\n",
+				"date_published": "2020-11-01T16:25:00-05:00",
+				"url": "https://blog.aviflax.com/2020/11/01/voted.html"
+			},
+			{
+				"id": "http://avi.micro.blog/2020/10/12/happy-indigenous-peoples.html",
+				
+				"content_html": "<p>Happy Indigenous Peoples’ Day!</p>\n\n<p>If you’re a US resident, take a few minutes to learn <a href=\"https://www.vox.com/first-person/2019/9/23/20872713/native-american-indian-treaties\">what it might look like if the US honored its treaties with indigenous peoples</a>.</p>\n\n<p><img src=\"https://blog.aviflax.com/uploads/2020/18c6e71167.jpg\" width=\"600\" height=\"423\" alt=\"Screenshot of the above-the-fold content of the linked Vox article, including a photo, headline, subtitle, and byline. Photo caption: An activist fights the wind while walking along Flag Road in Oceti Sakowin Camp as blizzard conditions grip the area around the Standing Rock Sioux Reservation outside Cannon Ball, North Dakota on December 6, 2016. Scott Olson/Getty Images.\" /></p>\n",
+				"date_published": "2020-10-12T09:46:54-05:00",
+				"url": "https://blog.aviflax.com/2020/10/12/happy-indigenous-peoples.html"
+			},
+			{
+				"id": "http://avi.micro.blog/2020/09/27/173849.html",
+				
+				"content_html": "<p>גמר חתימה טובה לכולם</p>\n",
+				"date_published": "2020-09-27T16:38:49-05:00",
+				"url": "https://blog.aviflax.com/2020/09/27/173849.html"
+			},
+			{
+				"id": "http://avi.micro.blog/2020/08/28/every-time-i.html",
+				
+				"content_html": "<p>Every time I come back to AWS after some time away:</p>\n\n<p><img src=\"https://blog.aviflax.com/uploads/2020/30ce2164f1.jpg\" width=\"600\" height=\"450\" alt=\"Image macro: photo of an irate Jimmy McMillan, founder of New York’s The Rent Is Too Damn High party, overlaid with the text “THE COGNITIVE LOAD IS TOO DAMN HIGH”\" /></p>\n",
+				"date_published": "2020-08-28T09:44:36-05:00",
+				"url": "https://blog.aviflax.com/2020/08/28/every-time-i.html"
+			},
+			{
+				"id": "http://avi.micro.blog/2020/08/23/deletefacebook-if-you.html",
+				"title": "#DeleteFacebook",
+				"content_html": "<p>If you have a Facebook account, even if you rarely or never use it, please read <a href=\"https://www.nbcnews.com/tech/tech-news/qanon-looms-behind-nationwide-rallies-viral-hashtags-n1237722\">this article</a> and consider deleting that account.</p>\n\n<p>Facebook is a parasite. It’s hurting humanity. #DeleteFacebook</p>\n",
+				"date_published": "2020-08-23T16:17:49-05:00",
+				"url": "https://blog.aviflax.com/2020/08/23/deletefacebook-if-you.html"
+			},
+			{
+				"id": "http://avi.micro.blog/2020/07/22/105525.html",
+				
+				"content_html": "<p><img src=\"https://blog.aviflax.com/uploads/2020/7d329cef9a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"date_published": "2020-07-22T10:55:25-05:00",
+				"url": "https://blog.aviflax.com/2020/07/22/105525.html"
+			},
+			{
+				"id": "http://avi.micro.blog/2020/07/02/til-in-docker.html",
+				"title": "TIL: In Docker for Mac, there is a default memory limit of 2GB…",
+				"content_html": "<p>TIL:</p>\n\n<blockquote>\n<p>In Docker for Mac, there is a default memory limit of 2GB, in order to run docker-compose up successfully you have to change default memory settings from 2GB to at least 4 or 5GB. To do so, click on the Docker icon in the menu bar, then “Preferences…”, go to “Advanced” tab and set 5GB of memory, then click on “Apply &amp; Restart” and run docker-compose up.</p>\n</blockquote>\n\n<p><a href=\"https://documentation.wazuh.com/2.1/docker/wazuh-container.html#docker-for-osx\">source</a></p>\n",
+				"date_published": "2020-07-02T16:59:27-05:00",
+				"url": "https://blog.aviflax.com/2020/07/02/til-in-docker.html"
+			},
+			{
+				"id": "http://avi.micro.blog/2020/03/17/be-kind-to.html",
+				
+				"content_html": "<p>Be kind to your bots!</p>\n\n<p><img src=\"https://blog.aviflax.com/uploads/2020/079da73be3.jpg\" width=\"600\" height=\"350\" alt=\"\" /></p>\n",
+				"date_published": "2020-03-17T21:25:59-05:00",
+				"url": "https://blog.aviflax.com/2020/03/17/be-kind-to.html"
+			},
+			{
+				"id": "http://avi.micro.blog/2020/03/01/holy-coda-is.html",
+				
+				"content_html": "<p>Holy💩 <a href=\"https://coda.io/\">Coda</a> is amazing. Truly impressive, compelling, fantastic!</p>\n",
+				"date_published": "2020-03-01T15:03:28-05:00",
+				"url": "https://blog.aviflax.com/2020/03/01/holy-coda-is.html"
+			},
+			{
+				"id": "http://avi.micro.blog/2019/12/24/yesterday-i-learned.html",
+				
+				"content_html": "<p>Yesterday I learned via <a href=\"https://discuss.atom.io/t/a-way-to-exclude-folders-from-find-in-project/9861/6\">this answer</a> a handy <a href=\"https://atom.io\">Atom</a> trick: one can exclude directories from the <em>Find in Project</em> feature by prefixing them with an exclamation mark, like so: <code>!dir</code></p>\n\n<p>This is handy when a project contains “archived” (frozen) files, or a generated dir like Jekyll’s <code>_site</code>.</p>\n\n<p><img src=\"https://blog.aviflax.com/uploads/2019/7fa25b8c8e.jpg\" width=\"458\" height=\"294\" alt=\"\" /></p>\n",
+				"date_published": "2019-12-24T10:00:19-05:00",
+				"url": "https://blog.aviflax.com/2019/12/24/yesterday-i-learned.html"
+			},
+			{
+				"id": "http://avi.micro.blog/2019/12/04/i-just-randomly.html",
+				
+				"content_html": "<p>I just randomly tried to run <a href=\"https://en.wikipedia.org/wiki/Pico_(text_editor)\"><code>pico</code></a> — wow, blast from the past!</p>\n",
+				"date_published": "2019-12-04T16:26:31-05:00",
+				"url": "https://blog.aviflax.com/2019/12/04/i-just-randomly.html"
+			},
+			{
+				"id": "http://avi.micro.blog/2019/11/25/i-spoke-at.html",
+				
+				"content_html": "<p>I spoke at the <a href=\"https://2019.clojure-conj.org/\">Clojure/conj</a> last week, on <em>(Architecture) Diagrams as ✨Data✨</em></p>\n\n<p>I’m very happy with how it came out. Thank you to everyone who helped me prepare and everyone who gave me feedback!</p>\n\n<p>If you’d like, you can check out <a href=\"http://2019.clojure-conj.org/speaker-avi-flax/\">the description</a>, <a href=\"https://github.com/aviflax/presentations/tree/master/diagrams-as-data\">the slides</a>, or <a href=\"https://youtu.be/HmHOYkTVxIg\">the video</a>.</p>\n\n<p><img src=\"https://blog.aviflax.com/uploads/2019/35e868f800.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"date_published": "2019-11-25T12:34:03-05:00",
+				"url": "https://blog.aviflax.com/2019/11/25/i-spoke-at.html"
+			},
+			{
+				"id": "http://avi.micro.blog/2019/11/15/itd-be-handy.html",
+				
+				"content_html": "<p>🤔 It’d be handy if I could assign a title to a given browser window — i.e. a set of tabs — so I could group sets of tabs by activity or topic.</p>\n\n<p>It looks like there are a few Firefox extensions that do this, but it’s unclear how effective they are on MacOS. I’ll have to try them.</p>\n",
+				"date_published": "2019-11-15T13:22:12-05:00",
+				"url": "https://blog.aviflax.com/2019/11/15/itd-be-handy.html"
+			},
+			{
+				"id": "http://avi.micro.blog/2019/10/18/i-just-proposed.html",
+				
+				"content_html": "<p>I just proposed a ⚡️ lightning talk for <a href=\"https://www.meetup.com/WriteTheDocsNYC/events/265751514/\">the next Write the Docs NYC meetup</a>: <em>Storytelling with Git</em>.</p>\n\n<p><img src=\"https://blog.aviflax.com/uploads/2019/e62b749c3c.jpg\" width=\"600\" height=\"277\" alt=\"Screenshot of a Web form (a Google Forms… form) showing the field “Talk title” with the value “Storytelling with Git” and “Talk description” with “I’ll show how documentarians and developers can document the ongoing story of their projects with Git, and explain why they should. I prepared this for WtD Portland this past May but I was bumped due to time constraints. I have a slide deck prepared that I’d be happy to share if you’d like to see it. Thanks for organizing!”\" /></p>\n",
+				"date_published": "2019-10-18T12:11:22-05:00",
+				"url": "https://blog.aviflax.com/2019/10/18/i-just-proposed.html"
+			},
+			{
+				"id": "http://avi.micro.blog/2019/10/18/writing-a-talk.html",
+				
+				"content_html": "<p>Writing a talk. What can I say, I’m super original.</p>\n\n<p><img src=\"https://blog.aviflax.com/uploads/2019/5d743095be.jpg\" width=\"600\" height=\"298\" alt=\"Screenshot of part of a text editor containing some text from the draft of a talk I’m working on. The text has an image placeholder with the label “obligatory morpheus image macro” and then a phrase I guess I’d say along with this slide: “What if I told you…”\" /></p>\n",
+				"date_published": "2019-10-18T11:53:43-05:00",
+				"url": "https://blog.aviflax.com/2019/10/18/writing-a-talk.html"
+			},
+			{
+				"id": "http://avi.micro.blog/2019/10/16/aphantasia-yes-its.html",
+				"title": "Aphantasia: yes, it’s a thing",
+				"content_html": "<p>Just now, while writing a presentation with my Mac, I typed “aphantasia” and noticed that the spell-checker flagged it as an unknown word/spelling.</p>\n\n<p>This made me chuckle. I’m used to having to explain <a href=\"https://en.wikipedia.org/wiki/Aphantasia\">aphantasia</a> to humans — so why shouldn’t I have to teach my computer about it too!</p>\n\n<p>It was first described in 1880; it’s really a thing! And yes, I really have it.</p>\n\n<p>I’m still blown away by how compellingly Blake Ross <a href=\"https://www.facebook.com/notes/blake-ross/aphantasia-how-it-feels-to-be-blind-in-your-mind/10156834777480504/\">described it</a>:</p>\n\n<blockquote>\n<p>I have never visualized anything in my entire life. I can’t “see” my father&rsquo;s face or a bouncing blue ball, my childhood bedroom or the run I went on ten minutes ago. I thought “counting sheep” was a metaphor. I’m 30 years old and I never knew a human could do any of this.</p>\n</blockquote>\n\n<p><img src=\"https://blog.aviflax.com/uploads/2019/4454b11553.jpg\" width=\"430\" height=\"600\" alt=\"Screenshot of a draft of this post open in the Micro.blog app on MacOS, showing the word “aphantasia” with a red squiggly underline, indicating that the computer has flagged it as an unknown or misspelled word.\" /></p>\n",
+				"date_published": "2019-10-16T15:58:55-05:00",
+				"url": "https://blog.aviflax.com/2019/10/16/aphantasia-yes-its.html"
+			},
+			{
+				"id": "http://avi.micro.blog/2019/10/10/new-release-of.html",
+				"title": "New release of the FC4 Framework adds ability to render to SVG",
+				"content_html": "<p>I’ve published <a href=\"https://github.com/FundingCircle/fc4-framework/releases/tag/release_2019.10.03-6bb09fb\">a new release</a> of <a href=\"https://fundingcircle.github.io/fc4-framework/\">FC4</a>, a <a href=\"https://en.wikipedia.org/wiki/Free_and_open-source_software\">FLOSS</a> framework for authoring &amp; maintaining <a href=\"https://c4model.com\">C4</a> software architecture diagrams.</p>\n\n<p>This release adds the ability to render diagrams to <a href=\"https://en.wikipedia.org/wiki/Scalable_Vector_Graphics\">SVG</a> in addition to (and even simultaneously with) <a href=\"https://en.wikipedia.org/wiki/Portable_Network_Graphics\">PNG</a>.</p>\n\n<p>Thanks to <a href=\"https://about.me/miketheman\">Mike Fiedler</a> for <a href=\"https://github.com/FundingCircle/fc4-framework/issues/200\">the feature request</a> and to\n <a href=\"http://simonbrown.je/\">Simon Brown</a> for <a href=\"https://structurizr.com/\">Structurizr</a> and <a href=\"https://structurizr.com/express\">Structurizr Express</a>!</p>\n",
+				"date_published": "2019-10-10T13:33:51-05:00",
+				"url": "https://blog.aviflax.com/2019/10/10/new-release-of.html"
+			},
+			{
+				"id": "http://avi.micro.blog/2019/10/07/before-during-and.html",
+				
+				"content_html": "<p>Before, during, and after the lower east side pickle festival!</p>\n\n<p><img src=\"https://blog.aviflax.com/uploads/2019/706f105965.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://blog.aviflax.com/uploads/2019/ebde4e2dc8.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://blog.aviflax.com/uploads/2019/6a1608ead5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"date_published": "2019-10-07T13:14:09-05:00",
+				"url": "https://blog.aviflax.com/2019/10/07/before-during-and.html"
+			},
+			{
+				"id": "http://avi.micro.blog/2019/10/07/thats-quite-a.html",
+				
+				"content_html": "<p>That’s quite a station car.</p>\n\n<p><img src=\"https://blog.aviflax.com/uploads/2019/cd49bf5e51.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"date_published": "2019-10-07T11:37:52-05:00",
+				"url": "https://blog.aviflax.com/2019/10/07/thats-quite-a.html"
+			},
+			{
+				"id": "http://avi.micro.blog/2019/10/04/on-a-lark.html",
+				
+				"content_html": "<p>On a lark, I just installed <a href=\"https://lynx.invisible-island.net\">Lynx</a> and used it to view <a href=\"https://fundingcircle.github.io/fc4-framework/\">the homepage of the FC4 Framework</a>. It looked great! I got a real kick out of this; it took me way back. I was also pleased to see that the structure and content of the page worked well when represented in plain text.</p>\n\n<p><img src=\"https://blog.aviflax.com/uploads/2019/1a3fbe9360.jpg\" width=\"600\" height=\"480\" alt=\"Screenshot of the homepage of the FC4 Framework loaded in Lynx in a MacOS (10.14 Mojave) Terminal window.\" /></p>\n",
+				"date_published": "2019-10-04T15:31:32-05:00",
+				"url": "https://blog.aviflax.com/2019/10/04/on-a-lark.html"
+			},
+			{
+				"id": "http://avi.micro.blog/2019/09/12/i-released-a.html",
+				
+				"content_html": "<p>I just released a <a href=\"https://github.com/FundingCircle/fc4-framework/releases/tag/release_2019.09.10-c987903\">new version</a> of <a href=\"https://fundingcircle.github.io/fc4-framework/\">FC4</a>, a <a href=\"https://en.wikipedia.org/wiki/Free_and_open-source_software\">FLOSS</a> framework for authoring,\npublishing, and maintaining <a href=\"https://c4model.com/\">C4</a> software architecture diagrams.</p>\n\n<p>The (abbreviated) highlights:</p>\n\n<ul>\n<li>Rendering multiple diagrams is faster and more efficient</li>\n<li>The versioning scheme has changed to work better with <a href=\"https://brew.sh/\">Homebrew</a></li>\n</ul>\n\n<p>The release notes contain more details, including upgrading instructions.</p>\n\n<p>I’d welcome any feedback you’d care to share!</p>\n",
+				"date_published": "2019-09-12T09:45:00-05:00",
+				"url": "https://blog.aviflax.com/2019/09/12/i-released-a.html"
+			},
+			{
+				"id": "http://avi.micro.blog/2019/08/29/anyone-else-use.html",
+				
+				"content_html": "<p>Anyone else use an iPad with an external keyboard (Bluetooth in my case) and found that Safari is <em>really</em> flaky when it comes to responding to keyboard shortcuts? Maybe there’s some kind of focus thing I’m missing, but I’ve been really annoyed by this apparent bug.</p>\n",
+				"date_published": "2019-08-29T10:10:33-05:00",
+				"url": "https://blog.aviflax.com/2019/08/29/anyone-else-use.html"
+			},
+			{
+				"id": "http://avi.micro.blog/2019/08/28/i-just-used.html",
+				
+				"content_html": "<p>I just used <a href=\"https://www.proporti.onl/\">Proporti.onl</a> to estimate the gender distribution of my Twitter followers and those I follow, based on their profile descriptions or first names. It’s not great: 1% non-binary, 36% women, 62% men. I’m gonna work on this.</p>\n\n<p><img src=\"https://blog.aviflax.com/uploads/2019/c0d32744b6.jpg\" width=\"600\" height=\"361\" alt=\"\" /></p>\n",
+				"date_published": "2019-08-28T11:19:25-05:00",
+				"url": "https://blog.aviflax.com/2019/08/28/i-just-used.html"
+			},
+			{
+				"id": "http://avi.micro.blog/2019/08/28/ive-been-playing.html",
+				
+				"content_html": "<p>I’ve been playing around with the recently upgraded @GitHub Actions and it was surprisingly easy to port some CircleCI jobs. Some intriguing features!</p>\n\n<p>(The jobs are a little slower, but I suspect that’s largely due to the lack of dependency caching, and <a href=\"https://twitter.com/mscccc/status/1166505708990263296\">they’re working on that</a>.)</p>\n\n<p><img src=\"https://blog.aviflax.com/uploads/2019/3199f70138.jpg\" width=\"600\" height=\"544\" alt=\"Screenshot of this run of GitHub Actions: https://github.com/FundingCircle/fc4-framework/runs/205850664\" /></p>\n",
+				"date_published": "2019-08-28T11:08:35-05:00",
+				"url": "https://blog.aviflax.com/2019/08/28/ive-been-playing.html"
+			}
+	]
+}

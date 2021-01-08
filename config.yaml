@@ -3,6 +3,8 @@ disablePathToLower: true
 languageCode: en-us
 title: aviflax.com
 
+enableGitInfo: true
+
 permalinks:
   post:  "/:year/:month/:title/"
 
@@ -12,13 +14,21 @@ menu:
   main:
   - identifier: posts
     name: Posts
-    url: /post/
+    url: /posts/
     weight: 10
+  - identifier: notes
+    name: Notes
+    url: /notes
+    weight: 20
   - identifier: about
     name: About
     url: /about/
-    weight: 20
+    weight: 30
+  - identifier: talks
+    name: Talks
+    url: /talks/
+    weight: 30
   - identifier: resume
     name: Résumé
     url: /resume/
-    weight: 30
+    weight: 40

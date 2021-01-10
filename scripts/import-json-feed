@@ -1,0 +1,36 @@
+#!/usr/bin/env bb
+
+(ns script
+  (:require [cheshire.core :as json]
+            [clojure.java.io :as io]
+      [clojure.pprint :as pp]
+            [clojure.string :as str]))
+
+(defn item-id->file-name
+  "An item ID looks like this:
+     http://avi.micro.blog/2020/11/01/voted.html
+   and I want the filename to be
+     2020-11-01-voted.md."
+  [id]
+  (-> (subs id 22 (- (count id) 5))
+      (str/replace "/" "-")
+      (str ".md")))
+
+(defn write-item
+  [item source-dir-path out-dir-path]
+  (let [filename (item-id->file-name (:id item))
+        year (subs filename 0 4)
+        out-file (io/file out-dir-path year filename)]
+    (io/make-parents out-file)
+    (spit out-file (:content_text item))))
+
+(defn main
+  [source-dir-path out-dir-path]
+  (let [json-file-path (io/file source-dir-path "feed.json")
+        feed (json/parse-string (slurp json-file-path) true)]
+(pp/pprint (-> feed :items first))
+    (run! #(write-item %1 source-dir-path out-dir-path)
+          (:items feed))))
+
+(main "/Users/avi/Downloads/micro.blog export/"
+      "/Users/avi/dev/aviflax.com/content/posts")

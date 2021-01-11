@@ -5,4 +5,4 @@ I facilitated my first unconference session yesterday and it was excellent!
 
 My mind is expanding here at #WriteTheDocs; it’s a wonderful conference and community!
 
-<img src="uploads/2018/a87637854d.jpg" width="600" height="383" />
+<img src="/posts/uploads/2018/a87637854d.jpg" width="600" height="383" />

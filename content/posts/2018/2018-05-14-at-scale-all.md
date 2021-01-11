@@ -14,4 +14,4 @@ From the transcript:
 
 Truth.
 
-<img src="uploads/2018/515538d58a.jpg" width="600" height="337" /><img src="uploads/2018/a42d026325.jpg" width="600" height="337" />
+<img src="/posts/uploads/2018/515538d58a.jpg" width="600" height="337" /><img src="/posts/uploads/2018/a42d026325.jpg" width="600" height="337" />

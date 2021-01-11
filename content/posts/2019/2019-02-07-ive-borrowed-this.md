@@ -5,4 +5,4 @@ I’ve borrowed this Fiat 500E #bev for an extended test drive (fun!) and I thin
 
 #electriccar #sogoodsofar
 
-<img src="uploads/2019/c01d68dff3.jpg" width="600" height="313" alt="" />
+<img src="/posts/uploads/2019/c01d68dff3.jpg" width="600" height="313" alt="" />

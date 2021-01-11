@@ -5,4 +5,4 @@ Last night I logged in to 23AndMe for the first time since their fracas with the
 
 😞 I wish I had seen this 2 years ago! My stomach has been a mess for ~2 years!
 
-<img src="uploads/2017/384e73aebf.jpg" width="600" height="600" style="height: auto" />
+<img src="/posts/uploads/2017/384e73aebf.jpg" width="600" height="600" style="height: auto" />

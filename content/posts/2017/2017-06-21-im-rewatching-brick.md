@@ -5,4 +5,4 @@ I’m re-watching Brick — my God, what a delightful film!
 
 (Alternative poster by [Matt Taylor](https://alternativemovieposters.com/amp/matt-taylor-by-matt-taylor/).)
 
-<img src="uploads/2017/260595b772.jpg" width="600" height="600" style="height: auto" />
+<img src="/posts/uploads/2017/260595b772.jpg" width="600" height="600" style="height: auto" />

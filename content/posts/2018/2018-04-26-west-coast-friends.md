@@ -5,4 +5,4 @@ West coast friends: I’ll be in SF next week (visiting my closest Funding Circl
 
 Also: join me at [the Tech Solidarity event on Tuesday night in SF](https://techsolidarity.org/events/sf_may_1_2018.html)!
 
-<img src="uploads/2018/5dc2a44e77.jpg" width="440" height="440" />
+<img src="/posts/uploads/2018/5dc2a44e77.jpg" width="440" height="440" />

@@ -5,4 +5,4 @@ How many plug-in cars do you see in this shot? London has been making great prog
 
 #plugincar #plugincars #electriccar #electriccars
 
-<img src="uploads/2019/19d895c634.jpg" width="600" height="600" alt="" />
+<img src="/posts/uploads/2019/19d895c634.jpg" width="600" height="600" alt="" />

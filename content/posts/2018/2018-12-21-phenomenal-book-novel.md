@@ -5,4 +5,4 @@ Phenomenal.
 
 #book #novel #fiction #speculativefiction
 
-<img src="uploads/2018/62b4f9e3f3.jpg" width="480" height="600" alt="" />
+<img src="/posts/uploads/2018/62b4f9e3f3.jpg" width="480" height="600" alt="" />

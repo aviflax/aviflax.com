@@ -5,4 +5,4 @@ This is amazing: [noparkinghere.com](https://noparkinghere.com/)
 
 /via [@daveliepmann](https://twitter.com/daveliepmann/status/1166337491634462720)
 
-<img src="uploads/2019/898faad222.jpg" width="600" height="600" alt="Screenshot of Web essay at noparkinghere.com" />
+<img src="/posts/uploads/2019/898faad222.jpg" width="600" height="600" alt="Screenshot of Web essay at noparkinghere.com" />

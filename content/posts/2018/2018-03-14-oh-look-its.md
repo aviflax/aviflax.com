@@ -7,4 +7,4 @@ Oh look it’s Wednesday!
 
 
 
-<img src="uploads/2018/23da1fe42a.jpg" width="600" height="516" />
+<img src="/posts/uploads/2018/23da1fe42a.jpg" width="600" height="516" />

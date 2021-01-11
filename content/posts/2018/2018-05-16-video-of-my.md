@@ -12,6 +12,6 @@ And now thanks to some of my excellent co-workers, [a video of the talk](https:/
 
 Here’s a still frame from the video:
 
-<img src="uploads/2018/ccc4fab9ed.jpg" width="600" height="337" />
+<img src="/posts/uploads/2018/ccc4fab9ed.jpg" width="600" height="337" />
 
 😬

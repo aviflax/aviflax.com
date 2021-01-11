@@ -5,4 +5,4 @@ Yesterday I learned via [this answer](https://discuss.atom.io/t/a-way-to-exclude
 
 This is handy when a project contains “archived” (frozen) files, or a generated dir like Jekyll’s `_site`.
 
-<img src="uploads/2019/7fa25b8c8e.jpg" width="458" height="294" alt="" />
+<img src="/posts/uploads/2019/7fa25b8c8e.jpg" width="458" height="294" alt="" />

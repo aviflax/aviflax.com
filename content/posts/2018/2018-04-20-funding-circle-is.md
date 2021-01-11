@@ -10,4 +10,4 @@ Funding Circle is hiring Software Engineers, Data Engineers, Account Managers, a
 
 If you apply, please tell them I sent you!
 
-<img src="uploads/2018/7db1a075bf.jpg" width="600" height="597" />
+<img src="/posts/uploads/2018/7db1a075bf.jpg" width="600" height="597" />

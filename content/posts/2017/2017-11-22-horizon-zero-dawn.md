@@ -5,4 +5,4 @@ Horizon Zero Dawn, one of the greatest games I’ve ever played, is [on sale](ht
 
 (PS4 only)
 
-<img src="uploads/2017/ca3c68aebf.jpg" width="600" height="600" />
+<img src="/posts/uploads/2017/ca3c68aebf.jpg" width="600" height="600" />

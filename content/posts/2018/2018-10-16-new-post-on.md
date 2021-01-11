@@ -7,4 +7,4 @@ Spoiler alert: @strangeloop_stl is still the best software development conferenc
 
 Photos: Simon Peyton-Jones’ inspiring keynote.
 
-<img src="uploads/2018/67a13c2aa3.jpg" width="600" height="450" /><img src="uploads/2018/929caf9a0e.jpg" width="600" height="450" /><img src="uploads/2018/0960cb5994.jpg" width="600" height="450" /><img src="uploads/2018/d8ea997233.jpg" width="600" height="450" />
+<img src="/posts/uploads/2018/67a13c2aa3.jpg" width="600" height="450" /><img src="/posts/uploads/2018/929caf9a0e.jpg" width="600" height="450" /><img src="/posts/uploads/2018/0960cb5994.jpg" width="600" height="450" /><img src="/posts/uploads/2018/d8ea997233.jpg" width="600" height="450" />

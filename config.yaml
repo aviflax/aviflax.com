@@ -5,6 +5,11 @@ title: aviflax.com
 
 enableGitInfo: true
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 permalinks:
   post:  "/:year/:month/:title/"
 

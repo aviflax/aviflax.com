@@ -10,30 +10,32 @@ markup:
     renderer:
       unsafe: true
 
+uglyurls: true
+
 permalinks:
-  post:  "/:year/:month/:title/"
+  posts: /:year/:month/:day/:title
 
 theme: smol
 
 menu:
   main:
-  - identifier: posts
-    name: Posts
-    url: /posts/
-    weight: 10
-  - identifier: notes
-    name: Notes
-    url: /notes
-    weight: 20
-  - identifier: about
-    name: About
-    url: /about/
-    weight: 30
-  - identifier: talks
-    name: Talks
-    url: /talks/
-    weight: 30
-  - identifier: resume
-    name: Résumé
-    url: /resume/
-    weight: 40
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: notes
+      name: Notes
+      url: /notes
+      weight: 20
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 30
+    - identifier: talks
+      name: Talks
+      url: /talks/
+      weight: 30
+    - identifier: resume
+      name: Résumé
+      url: /resume/
+      weight: 40

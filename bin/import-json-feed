@@ -6,20 +6,31 @@
             [clojure.java.io :as io]
             [clojure.string  :as str]))
 
-(defn item-id->file-name
-  "An item ID looks like this:
-     http://avi.micro.blog/2020/11/01/voted.html
+(defn item->slug
+  "An item URL looks like this:
+     https://blog.aviflax.com/2020/03/17/be-kind-to.html
+   and I want the slug to be
+     be-kind-to"
+  [item]
+  (-> (:url item)
+      (str/split #"/")
+      (last)
+      (str/split #"\.")
+      (first)))
+
+(defn item->filename
+  "An item URL looks like this:
+     https://blog.aviflax.com/2020/03/17/be-kind-to.html
    and I want the filename to be
-     2020-11-01-voted.md."
-  [id]
-  (-> (subs id 22 (- (count id) 5))
-      (str/replace "/" "-")
-      (str ".md")))
+     be-kind-to.md"
+  [item]
+  (str (item->slug item) ".md"))
 
 (defn item->front-matter
   [item]
   (-> (select-keys item [:title])
-      (assoc :date (:date_published item))
+      (assoc :date (:date_published item)
+             :slug (item->slug item))
       (yaml/generate-string :dumper-options {:flow-style :block})))
 
 (defn item->file
@@ -27,12 +38,12 @@
   (str "---\n"
        (item->front-matter item)
        "---\n"
-       (:content_text item)))
+       (:content_html item)))
 
 (defn write-item
   [item out-dir-path]
-  (let [filename (item-id->file-name (:id item))
-        year (subs filename 0 4)
+  (let [filename (item->filename item)
+        year (-> item :url (str/split #"/") (nth 3))
         out-file (io/file out-dir-path year filename)]
     (io/make-parents out-file)
     (spit out-file (item->file item))))

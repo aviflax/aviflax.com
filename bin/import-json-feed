@@ -30,7 +30,7 @@
        (:content_text item)))
 
 (defn write-item
-  [item source-dir-path out-dir-path]
+  [item out-dir-path]
   (let [filename (item-id->file-name (:id item))
         year (subs filename 0 4)
         out-file (io/file out-dir-path year filename)]
@@ -38,11 +38,10 @@
     (spit out-file (item->file item))))
 
 (defn main
-  [source-dir-path out-dir-path]
-  (let [json-file-path (io/file source-dir-path "feed.json")
-        feed (json/parse-string (slurp json-file-path) true)]
-    (run! #(write-item %1 source-dir-path out-dir-path)
+  [json-file-path out-dir-path]
+  (let [feed (json/parse-string (slurp json-file-path) true)]
+    (run! #(write-item %1 out-dir-path)
           (:items feed))))
 
-(main "/Users/avi/Downloads/micro.blog export/"
-      "/Users/avi/dev/aviflax.com/content/posts")
+(main "posts3.json"
+      "content/posts")

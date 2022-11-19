@@ -1,9 +1,0 @@
-[submodule "smol"]
-  path = themes/smol
-	url = https://github.com/colorchestra/smol
-[submodule "static/resume"]
-	path = static/resume
-	url = https://github.com/aviflax/resume
-[submodule "themes/smol"]
-	path = themes/smol
-	url = https://github.com/colorchestra/smol

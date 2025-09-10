@@ -1,0 +1,10 @@
+[
+    {
+        "Redirect": {
+            "HostName": "aviflax.dev",
+            "HttpRedirectCode": "307",
+            "Protocol": "https",
+            "ReplaceKeyWith": "resume/"
+        }
+    }
+]
